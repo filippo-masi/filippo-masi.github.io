@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<p><font size="+1"><b>preprints</b></font></p>
+<div><font size="+1"><b>preprint</b></font></div>
 <p>
 <div class="row">
   <div class="col-sm-2">
@@ -17,7 +17,7 @@ nav_order: 1
   <div class="col-sm-10">
   <p>F Masi, I Stefanou (2022). Evolution TANN and the discovery of the internal variables and evolution equations in solid mechanics. arXiv preprint arXiv:2209.13269. <a href="https://doi.org/10.48550/arXiv.2209.13269">10.48550/arXiv.2209.13269</a>.</p>
   </div>
-
+</p>
 
 
 

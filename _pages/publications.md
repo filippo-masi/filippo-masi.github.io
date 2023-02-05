@@ -9,7 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-<div><font size="+2"><b>Refereed journal articles</b></font></div>
+<div><font size="+1"><b>Refereed journal articles</b></font></div>
 <div class="publications">
 
 {%- for y in page.years %}

@@ -22,6 +22,8 @@ nav_order: 1
 
 </div>
 
+<hr>
+
 <div><font size="+1"><b>refereed conference proceedings</b></font></div>
 <div>
 <ul>

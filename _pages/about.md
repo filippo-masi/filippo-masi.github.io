@@ -9,10 +9,10 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><font size="+2">Sydney Centre in Geomechanics and Mining Materials</font></p>
-    <p>School of Civil Engineering</p>
-    <p>The University of Sydney</p>
-    <p>NSW 2006 Australia</p>
+    <p><font size="-4">Sydney Centre in Geomechanics and Mining Materials</font></p>
+    <p><font size="-4">School of Civil Engineering</font></p>
+    <p><font size="-4">The University of Sydney</font></p>
+    <p><font size="-4">NSW 2006 Australia</font></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /scientific production/
 title: scientific production
 description: Author of 10 articles in major multi-disciplinary scientific journals and leading peer-reviewed international journals. More than 20 communications in prestigious international conferences.
 years: [2022,2021,2020,2019,2018]

@@ -26,7 +26,7 @@ nav_order: 1
 <div><font size="+2">refereed conference proceedings</font></div>
 <div class="publications">
 
-#{% bibliography --file papers %}
+{% bibliography --file papers3 %}
 
 </div>
 

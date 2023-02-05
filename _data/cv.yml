@@ -11,12 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Mechanics
-      institution: Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France
+    - title: PhD in Mechanics - <i>Fast-dynamic response and failure of masonry structures subjected to blast loads</i>
+      institution: Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France. Supervisors - Prof I Stefanou, Prof P Vannucci
+
+
       year: Dec 2020
-      description: >
-      <p><font size="-1">Fast-dynamic response and failure of masonry structures subjected to blast loads</font></p>
-      <p><font size="-1">Supervisors - Prof I Stefanou, Prof P Vannucci</font></p>
+      description:
 
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland

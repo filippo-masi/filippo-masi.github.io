@@ -28,9 +28,7 @@ nav_order: 1
 
 </div>
 
-<p>
-<div><font size="+1"><b>refereed conference proceedings</b></font></div>
-</p>
+<p><font size="+1"><b>refereed conference proceedings</b></font></p>
 <div class="row">
   <div class="col-sm-2">
 

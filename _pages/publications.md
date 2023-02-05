@@ -15,7 +15,7 @@ nav_order: 1
 
 </div>
 
-<div><font size="+2">refereed journal <b>articles</b></font></div>
+<div><font size="+2">refereed journal articles</font></div>
 <div class="publications">
 
 {% bibliography --file papers %}
@@ -23,14 +23,14 @@ nav_order: 1
 </div>
 
 
-<div><font size="+1"><b>Refereed conference proceedings</b></font></div>
+<div><font size="+2">refereed conference proceedings</font></div>
 <div class="publications">
 
 #{% bibliography --file papers %}
 
 </div>
 
-<div><font size="+1"><b>conference communication</b></font></div>
+<div><font size="+2">conference communication</font></div>
 <div class="publications">
 
 #{% bibliography --file papers %}

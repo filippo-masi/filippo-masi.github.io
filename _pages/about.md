@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><font size="-4">SydneyQ Centre in Geomechanics and Mining Materials</font></p>
+    <p><font size="-4">Sydney Centre in Geomechanics and Mining Materials</font></p>
     <p><font size="-4">School of Civil Engineering</font></p>
     <p><font size="-4">The University of Sydney</font></p>
     <p><font size="-4">NSW 2006 Australia</font></p>

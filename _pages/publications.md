@@ -33,8 +33,8 @@ nav_order: 1
 
   </div>
   <div class="col-sm-10">
-  <p>F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</br>
-  F Masi, I Stefanou, A Morsel, P Kotronis (2022). Reduced-scaled experiments of masonry structures under blast loads, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</br>
+  <p>F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</p>
+  <p>F Masi, I Stefanou, A Morsel, P Kotronis (2022). Reduced-scaled experiments of masonry structures under blast loads, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</p>
 
   </p>
   </div>

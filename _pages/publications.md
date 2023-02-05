@@ -14,7 +14,7 @@ nav_order: 1
 
 </div>
 
-<div><font size="+1"><b>refereed journal articles</b></font></div>
+<div><font size="+2"><b>refereed journal articles</b></font></div>
 <div class="publications">
 
 {% bibliography --file papers %}
@@ -24,7 +24,7 @@ nav_order: 1
 
 <hr>
 
-<div><font size="+1"><b>refereed conference proceedings</b></font></div>
+<div><font size="+2"><b>refereed conference proceedings</b></font></div>
 <p>
 <ul>
     <li style="text-align:justify;">F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</li>

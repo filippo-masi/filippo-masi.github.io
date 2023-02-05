@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<p><font size="+2">preprints</font></p>
+<p><font size="+1"><b>preprints</b></font></p>
 <div class="publications">
 {% bibliography --file papers2 %}
 
@@ -22,16 +22,13 @@ nav_order: 1
 
 </div>
 
-<div><font size="+2">refereed conference proceedings</font></div>
+<div><font size="+1"><b>refereed conference proceedings</b></font></div>
 <div class="publications">
 
 {% bibliography --file papers3 %}
 
 </div>
 
-<div><font size="+2">conference communication</font></div>
+<div><font size="+1"><b>conference communications</b></font></div>
 <div class="publications">
-
-#{% bibliography --file papers %}
-
 </div>

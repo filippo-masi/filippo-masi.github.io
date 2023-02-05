@@ -8,8 +8,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div><font size="+1"><b>preprint</b></font></div>
-<p>
+<p><font size="+1"><b>preprint</b></font></p>
 <div class="row">
   <div class="col-sm-2">
 

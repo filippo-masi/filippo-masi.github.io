@@ -33,7 +33,14 @@ nav_order: 1
 
   </div>
   <div class="col-sm-10">
-  F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.
+  <ul>
+      <li style="text-align:justify;">F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</li>
+      <li style="text-align:justify;">F Masi, I Stefanou, A Morsel, P Kotronis (2022). Reduced-scaled experiments of masonry structures under blast loads, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</li>
+      <li style="text-align:justify;">G Piunno, F Masi, I Stefanou, C Jommi (2022). Multi-scale modelling of natural composites via Thermodynamics-based Artificial Neural Networks, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</li>
+      <li style="text-align:justify;">F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2021) Material Modeling via Thermodynamics-based Artificial Neural Networks. In: Barbaresco F., Nielsen F. (eds) <i>Geometric Structures of Statistical Physics, Information Geometry, and Learning. Springer Proceedings in Mathematics &amp; Statistics</i>. Springer, Cham. doi: <a href="https://doi.org/10.1007/978-3-030-77957-3_16">10.1007/978-3-030-77957-3_16</a>.</li>
+      <li style="text-align:justify;">F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Rocking response and overturning of museum artefacts due to explosions (invited keynote speaker), <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://www.eccomasproceedia.org/conferences/thematic-conferences/compdyn-2019/7119">10.7712/120119.7119.19577</a>.</li>
+      <li style="text-align:justify;">F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Response of monumental buildings to internal explosions, <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://doi.org/10.7712/120119.6958.19630">10.7712/120119.6958.19630</a>.</li>
+  </ul>
   </div>
 
 

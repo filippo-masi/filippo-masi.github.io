@@ -36,7 +36,8 @@ nav_order: 1
 
 
 
-
+<p>F Masi, I Stefanou (2022). Can we tame scale bridging in complex materials?, <i>ALERT Geomaterials - Poster Session</i>. Aussois,France, 26-28 September.</p>
+<p>A Morsel, F Masi, I Stefanou, P Kotronis (2022). Design of reduced-scale experiments of masonry structures subjected to blast loads, <i>ALERT Geomaterials - Poster Session</i>. Aussois,France, 26-28 September.</p>
 <p>F Masi, I Stefanou (2022). Data- and thermodynamics-driven discovery of state variables and evolution equations, <i>41<sup>st</sup> International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering (MaxEnt’22)</i>. Paris, France, 18-22 July.</p>
 <p>F Masi, I Stefanou (2022). Understanding the behavior of masonry structures subjected to blast loads, <i>International Conference on Nonlinear Solid Mechanics</i>. Alghero, Italy, 13-16 June.</p>
 <p>F Masi (2022). Deep learning, simulation temps réel et réduction de modèles (invited speaker), <i>5<sup>eme</sup> Workshop CSMA Junior</i>. Giens, France, 14-16 May.</p>

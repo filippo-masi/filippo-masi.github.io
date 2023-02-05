@@ -251,7 +251,7 @@ scholar:
   last_name: [Masi]
   first_name: []
 
-  style: apa
+  style: vancouver
   locale: en
 
   source: /_bibliography/

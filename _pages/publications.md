@@ -15,7 +15,7 @@ nav_order: 1
 
 </div>
 
-<div><font size="+2">refereed journal articles</font></div>
+<div><font size="+1"><b>refereed journal articles</b></font></div>
 <div class="publications">
 
 {% bibliography --file papers %}

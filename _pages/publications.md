@@ -23,7 +23,7 @@ nav_order: 1
 </div>
 
 <div><font size="+1"><b>refereed conference proceedings</b></font></div>
-
+<div>
 <ul>
     <li style="text-align:justify;">F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</li>
     <li style="text-align:justify;">F Masi, I Stefanou, A Morsel, P Kotronis (2022). Reduced-scaled experiments of masonry structures under blast loads, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</li>
@@ -32,6 +32,7 @@ nav_order: 1
     <li style="text-align:justify;">F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Rocking response and overturning of museum artefacts due to explosions (invited keynote speaker), <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://www.eccomasproceedia.org/conferences/thematic-conferences/compdyn-2019/7119">10.7712/120119.7119.19577</a>.</li>
     <li style="text-align:justify;">F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Response of monumental buildings to internal explosions, <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://doi.org/10.7712/120119.6958.19630">10.7712/120119.6958.19630</a>.</li>
 </ul>
+</div>
 
 <div><font size="+1"><b>conference communications</b></font></div>
 <div class="publications">

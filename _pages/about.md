@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral research associate </br>
-<font size="-4">Computational Mechanics - Deep Learning - Fast dynamics - Blast loading - Structural Mechanics - Geomechanics</font>
+subtitle: Postdoctoral research associate
 profile:
   align: left
   image: profile_pic.jpg

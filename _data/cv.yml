@@ -1,12 +1,12 @@
-- title: <font size="4">General Information</font>
-  type: map
-  contents:
-    - name: <font size="3">Full Name</font>
-      value: <font size="3">Filippo Masi</font>
-    - name: <font size="3">Date of Birth</font>
-      value: <font size="3">6th March 1992</font>
-    - name: <font size="3">Languages</font>
-      value: <font size="3">English, French, Italian</font>
+#- title: <font size="4">General Information</font>
+#  type: map
+#  contents:
+#    - name: <font size="3">Full Name</font>
+#      value: <font size="3">Filippo Masi</font>
+#    - name: <font size="3">Date of Birth</font>
+#      value: <font size="3">6th March 1992</font>
+#    - name: <font size="3">Languages</font>
+#      value: <font size="3">English, French, Italian</font>
 
 - title: <font size="4">Academic degrees</font>
   type: map

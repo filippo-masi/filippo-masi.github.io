@@ -8,6 +8,8 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
+<div><font size="+4"><b>Refereed journal articles</b></font></div>
 <div class="publications">
 
 {%- for y in page.years %}

@@ -11,7 +11,7 @@ nav_order: 1
 <div><font size="+1"><b>Preprints</b></font></div>
 <div class="publications">
 
-% bibliography -f papers2 -q
+{% bibliography --file papers2 %}
 
 </div>
 

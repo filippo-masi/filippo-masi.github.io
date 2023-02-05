@@ -21,3 +21,18 @@ nav_order: 1
 {% bibliography --file papers %}
 
 </div>
+
+
+<div><font size="+1"><b>Refereed conference proceedings</b></font></div>
+<div class="publications">
+
+#{% bibliography --file papers %}
+
+</div>
+
+<div><font size="+1"><b>conference communication</b></font></div>
+<div class="publications">
+
+#{% bibliography --file papers %}
+
+</div>

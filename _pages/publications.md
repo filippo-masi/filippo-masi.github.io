@@ -32,7 +32,7 @@ nav_order: 1
   <div class="col-sm-2">
 
   </div>
-  <div class="col-sm-2">
+  <div class="col-sm-10">
   F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.
   </div>
 

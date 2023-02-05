@@ -1,4 +1,4 @@
-- title: <font size="6">General Information</font>
+- title: <font size="4">General Information</font>
   type: map
   contents:
     - name: Full Name
@@ -7,7 +7,7 @@
       value: 6th March 1992
     - name: Languages
       value: English, French, Italian
-
+</font>
 - title: Education
   type: time_table
   contents:

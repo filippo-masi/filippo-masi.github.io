@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Filippo Masi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th March 1992
     - name: Languages
-      value: English, German
+      value: English, French, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Mechanics
+      institution: Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France
+      year: 10/2017 - 12/2020
       description:
         - Description 1.
         - Description 2.
@@ -72,18 +72,18 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.

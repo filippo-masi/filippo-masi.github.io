@@ -3,7 +3,7 @@ layout: page
 permalink: /scientific production/
 title: scientific production
 description: List of refereed journal articles, conference proceedings, preprints, and communications.
-#years: [2022,2021,2020,2019,2018]
+years: [2022,2021,2020,2019,2018]
 nav: true
 nav_order: 1
 ---
@@ -18,10 +18,12 @@ nav_order: 1
 <div><font size="+2">refereed journal articles</font></div>
 <div class="publications">
 
-{% bibliography --file papers %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>
-
 
 <div><font size="+2">refereed conference proceedings</font></div>
 <div class="publications">

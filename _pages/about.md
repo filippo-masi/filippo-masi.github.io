@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral research associate
+subtitle: Postdoctoral Research Associate
 profile:
   align: left
   image: profile_pic.jpg

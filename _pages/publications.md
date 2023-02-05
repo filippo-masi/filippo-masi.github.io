@@ -8,9 +8,8 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div><font size="+2">preprints</font></div>
+<p><font size="+2">preprints</font></p>
 <div class="publications">
-
 {% bibliography --file papers2 %}
 
 </div>

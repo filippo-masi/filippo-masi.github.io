@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: <font size="2">Full Name</font>
-      value: Filippo Masi
-    - name: Date of Birth
-      value: 6th March 1992
-    - name: Languages
-      value: English, French, Italian
+      value: <font size="2">Filippo Masi</font>
+    - name: <font size="2">Date of Birth</font>
+      value: <font size="2">6th March 1992</font>
+    - name: <font size="2">Languages</font>
+      value: <font size="2">English, French, Italian</font>
 
 - title: Education
   type: time_table

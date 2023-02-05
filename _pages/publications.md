@@ -22,11 +22,10 @@ nav_order: 1
 
 </div>
 
-<hr>
 
 <div><font size="+1"><b>refereed conference proceedings</b></font></div>
 
-
+<p>
 
 <div class="row">
   <div class="col-sm-2">
@@ -41,7 +40,7 @@ nav_order: 1
   <p> F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Response of monumental buildings to internal explosions, <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://doi.org/10.7712/120119.6958.19630">10.7712/120119.6958.19630</a>.</p>
   </div>
 
-
+</p>
 
 <div><font size="+1"><b>conference communications</b></font></div>
 <div class="publications">

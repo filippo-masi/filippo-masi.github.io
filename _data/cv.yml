@@ -8,24 +8,26 @@
     - name: <font size="3">Languages</font>
       value: <font size="3">English, French, Italian</font>
 
-- title: Education
+- title: <font size="4">Academic degrees</font>
   type: time_table
   contents:
-    - title: PhD, Mechanics
-      institution: <i>Fast-dynamic response and failure of masonry structures subjected to blast loads</i>. Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France. Supervisors - Prof I Stefanou, Prof P Vannucci
+    - title: <font size="3">PhD, Mechanics</font>
+      institution: <font size="3"><i>Fast-dynamic response and failure of masonry structures subjected to blast loads</i>.
+      Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France.
+      Supervisors - Prof I Stefanou, Prof P Vannucci</font>
 
 
-      year: Dec 2020
+      year: <font size="3">Dec 2020</font>
       description:
 
-    - title: Master, Mechanical Engineering
-      institution: University of Florence, Italy (solemn commendation of the committee − outstanding)
-      year: Jul 2017
+    - title: <font size="3">Master, Mechanical Engineering</font>
+      institution: <font size="3">University of Florence, Italy (solemn commendation of the committee − outstanding)</font>
+      year: <font size="3">Jul 2017</font>
       description:
 
-    - title: Bachelor, Mechanical Engineering
-      institution: University of Florence, Italy
-      year: Dec 2015
+    - title: <font size="3">Bachelor, Mechanical Engineering</font>
+      institution: <font size="3">University of Florence, Italy</font>
+      year: <font size="3">Dec 2015</font>
       description:
 
 

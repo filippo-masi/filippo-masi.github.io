@@ -15,12 +15,9 @@
       institution: Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France
       year: 12/2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - <i>Fast-dynamic response and failure of masonry structures subjected to blast loads</i>
+        - Supervisors: Prof I Stefanou, Prof P Vannucci.
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900

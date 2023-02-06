@@ -20,7 +20,7 @@
     - name: <font size="3">2017Sep-2020Oct</font>
       value: <font size="3"><p><b>Engineer</b> </p>  <p>Ingérop Conseil et Ingénierie, France (CIFRE)</p></font>
 
-- title: <font size="4">Academic degrees</font>
+- title: <font size="4"><b>Academic degrees</b></font>
   type: map
   contents:
     - name: <font size="3">2020</font>

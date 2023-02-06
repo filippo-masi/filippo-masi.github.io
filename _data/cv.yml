@@ -43,3 +43,9 @@
       value: <font size="3"><b><a href="https://csma.asso.univ-lorraine.fr/2021/04/20/prix-de-these-csma-2020/">Award for the best PhD thesis</a></b> by CSMA (Computational Structural Mechanics Association)</font>
     - name: <font size="3">2021</font>
       value: <font size="3">Finalist in the selection for <a href="https://www.eccomas.org/2021/06/10/2020-phd-awards/">ECCOMAS PhD award</a>, Robert J Melosh Medal by Duke University, I Vardoulakis prize by ALERT Geomaterials</font>
+
+- title: <font size="4">PhD Student supervision</font>
+  type: map
+  contents:
+    - name: <font size="3">2021-.</font>
+      value: <font size="3">A Morshel, Experimental testing of masonry structures under blast actions in the laboratory</font>

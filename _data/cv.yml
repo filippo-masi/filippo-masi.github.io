@@ -8,7 +8,7 @@
 #    - name: <font size="3">Languages</font>
 #      value: <font size="3">English, French, Italian</font>
 
-- title: <font size="4">Employment</font>
+- title: <font size="4"><b>Employment</b></font>
   type: map
   contents:
     - name: <font size="3">2022Dec-.</font>
@@ -32,7 +32,7 @@
     - name: <font size="3">2015</font>
       value: <font size="3"><b>Bachelor, Mechanical Engineering</b> University of Florence, Italy</font>
 
-- title: <font size="4">Honors and awards</font>
+- title: <font size="4"><b>Honors and awards</b></font>
   type: map
   contents:
     - name: <font size="3">2022</font>
@@ -44,7 +44,7 @@
     - name: <font size="3">2021</font>
       value: <font size="3">Finalist in the selection for <a href="https://www.eccomas.org/2021/06/10/2020-phd-awards/">ECCOMAS PhD award</a>, Robert J Melosh Medal by Duke University, I Vardoulakis prize by ALERT Geomaterials</font>
 
-- title: <font size="4">PhD Student supervision</font>
+- title: <font size="4"><b>PhD Student supervision</b></font>
   type: map
   contents:
     - name: <font size="3">2021-.</font>

@@ -8,10 +8,20 @@
 #    - name: <font size="3">Languages</font>
 #      value: <font size="3">English, French, Italian</font>
 
+- title: <font size="4">Employment</font>
+  type: map
+  contents:
+    - name: <font size="3">10.2020-present</font>
+      value: <font size="3"><b>Postdoctoral research associate</b>. Sydney Centre in Geomechanics and Mining Materials, School of Civil Engineering, The University of Sydney, Australia.
+    - name: <font size="3">2017</font>
+      value: <font size="3"><b>Master, Mechanical Engineering</b>. University of Florence, Italy (solemn commendation of the committee − outstanding)</font>
+    - name: <font size="3">2015</font>
+      value: <font size="3"><b>Bachelor, Mechanical Engineering</b>. University of Florence, Italy</font>
+
 - title: <font size="4">Academic degrees</font>
   type: map
   contents:
-    - name: <font size="3">2020</font>
+    - name: <font size="3">2022</font>
       value: <font size="3"><b>PhD, Mechanics</b>. Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France.
     - name:
       value: Title - <i>Fast-dynamic response and failure of masonry structures subjected to blast loads </i>. Supervisors - Prof I Stefanou, Prof P Vannucci</font>

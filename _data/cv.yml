@@ -24,9 +24,7 @@
     - name:
       value: Ecole Centrale de Nantes – Centrale Innovation, France</font>
     - name: <font size="3">2017Sep-2020Oct</font>
-      value: <font size="3"><b>Engineer</b>
-    - name:
-      value: Ingérop Conseil et Ingénierie, France</font>
+      value: <p><font size="3"><b>Engineer</b> </p>  <p>Ingérop Conseil et Ingénierie, France</p></font>
 
 - title: <font size="4">Academic degrees</font>
   type: map

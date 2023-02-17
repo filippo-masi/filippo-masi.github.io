@@ -24,7 +24,7 @@ nav_order: 1
 
 <p><font size="+1"><b>refereed conference proceedings</b></font></p>
 
-  <p>F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September. <a href="assets/pdf/fullpaper-masi-filippo-2022-05-02045730.pdf">pdf</a> <a href="{{  | prepend: 'assets/pdf/fullpaper-masi-filippo-2022-05-02045730.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+  <p>F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September. <a href="assets/pdf/fullpaper-masi-filippo-2022-05-02045730.pdf">pdf</a> <a href="{{ fullpaper-masi-filippo-2022-05-02045730 | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
   </p>
   <p>F Masi, I Stefanou, A Morsel, P Kotronis (2022). Reduced-scaled experiments of masonry structures under blast loads, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</p>
   <p> G Piunno, F Masi, I Stefanou, C Jommi (2022). Multi-scale modelling of natural composites via Thermodynamics-based Artificial Neural Networks, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September.</p>

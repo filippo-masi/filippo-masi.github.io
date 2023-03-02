@@ -49,7 +49,17 @@ nav_order: 1
 <p>F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2018). Simulations of blast effects in monumental structures, <i>13<sup>th</sup> World Congress on Computational Mechanics</i>. NY, USA, 22-27 July.</p>
 
 
-<p><font size="+1"><b>siftware and code developments</b></font></p>
+<p><font size="+1"><b>software and code developments</b></font></p>
+<html >
+<head><title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="generator" content="TeX4ht (https://tug.org/tex4ht/)">
+<meta name="originator" content="TeX4ht (https://tug.org/tex4ht/)">
+<!-- html -->
+<meta name="src" content="html.tex">
+<link rel="stylesheet" type="text/css" href="html.css">
+</head><body
+>
 <!--l. 101--><p class="noindent" >I contributed to the following software, presented using <a
 href="https://www.inria.fr/sites/default/files/2021-01/Criteria%20software%20self%20assessment.pdf" >Inria&#8217;s guidelines for software self-assessment</a>.
    <ul class="itemize1">
@@ -190,4 +200,4 @@ class="t1xsssl-x-x-95">The FEniCS Conference </span>(2022). </li></ul>
 <!--l. 138--><p class="noindent" >Additional software and data related to the validation of published research outputs are available under request (as
 mentioned in post-print and published versions of the articles).
 
-</body></html> 
+</body></html>

@@ -23,20 +23,17 @@ nav_order: 1
   <li>A study on the effects of an explosion in the Pantheon of Rome
   <iframe width="420" height="315" src="https://www.youtube.com/embed/mkXCM-PEsv8">
   </iframe></li>
-  </li>
 
   <li>“Can we tame earthquakes?” Data-centric engineering, The University of Sydney, 27 October 2021.
   <iframe width="420" height="315" src="https://www.youtube.com/embed/Za5t8LVWl-Q">
   </iframe></li>
-  </li>
 
   <li>The statue of Aphrodite of Milos subjected to blast actions
   <iframe width="420" height="315" src="https://www.youtube.com/embed/IgHzwOfQfTI">
   </iframe></li>
-  </li>
+
 
   <li>Blast wave and fluid-structure interactions
   <iframe width="420" height="315" src="https://www.youtube.com/embed/Bp5-QypZLio">
   </iframe></li>
-  </li>
 </ul>

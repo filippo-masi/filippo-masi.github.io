@@ -2,7 +2,8 @@
 layout: page
 permalink: /repositories/
 title: software
-description: I contributed to the following software.
+description: In my research, I contributed to the following software, which was written for the purpose of validating and disseminating
+conducted research work.
 nav: true
 nav_order: 3
 ---

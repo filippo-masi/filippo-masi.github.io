@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /scientific production/
-title: scientific production
+title: publications
 description: List of refereed journal articles, conference proceedings, preprints, and communications.
 years: [2022,2021,2020,2019,2018]
 nav: true

@@ -23,15 +23,6 @@ nav_order: 1
 
 
   <li>
-  <div>PhD Thesis Defense, Ecole Centrale de Nantes, 14 Dec 2020.</div>
-<br>
-
-  <iframe width="500" height="315" src="https://www.youtube.com/embed/9EzR6C18zWk">
-  </iframe>
-  <br>
-  <br>
-  </li>
-  <li>
   “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA. <br>
 
   <iframe width="500" height="315" src="https://www.youtube.com/embed/p6UJ03P6LUY">
@@ -39,6 +30,16 @@ nav_order: 1
   <br>
   <br></li>
 
+  <li>
+  <div>PhD Thesis Defense, Ecole Centrale de Nantes, 14 Dec 2020.</div>
+  <br>
+
+  <iframe width="500" height="315" src="https://www.youtube.com/embed/9EzR6C18zWk">
+  </iframe>
+  <br>
+  <br>
+  </li>
+  
   <li>
   “Can we tame earthquakes?” @ Data-centric engineering, The University of Sydney, 27 October 2021.
   <br>
@@ -48,7 +49,7 @@ nav_order: 1
   <br>
   </li>
 
-  
+
   <li>
   A study on the effects of an explosion in the Pantheon of Rome
   <br>

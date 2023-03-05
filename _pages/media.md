@@ -16,7 +16,7 @@ Kotronis, Guillaume Racineux, Emmanuel Marché), on the occasion of the 2023 edi
 Chercheur.es event hosted by Nantes Université</div>
 <br>
 
-<iframe width="300" height="315" src="https://www.youtube.com/embed/ElW6LhsOWXg">
+<iframe width="300" height="315" src="https://www.youtube.com/embed/ElW6LhsOWXg",allow="fullscreen;">
 </iframe>
 <br>
 <br>

@@ -34,7 +34,3 @@ My research concerns the development of data-driven and machine learning approac
 <p><font size="+1"><b>Research axes</b></font></p>
 
 <center><img src="./../assets/img/masonry.png"  alt="centered image" width="50%" height="20%"></center>
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/9EzR6C18zWk">
-</iframe>

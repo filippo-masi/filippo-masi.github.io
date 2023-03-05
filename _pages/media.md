@@ -32,14 +32,23 @@ nav_order: 1
   <br>
   </li>
   <li>
-  “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” at Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology - MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
-<br>
+  “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA. <br>
 
   <iframe width="500" height="315" src="https://www.youtube.com/embed/p6UJ03P6LUY">
   </iframe>
   <br>
   <br></li>
 
+  <li>
+  “Can we tame earthquakes?” @ Data-centric engineering, The University of Sydney, 27 October 2021.
+  <br>
+
+  <iframe width="500" height="315" src="https://www.youtube.com/embed/Za5t8LVWl-Q">
+  </iframe><br>
+  <br>
+  </li>
+
+  
   <li>
   A study on the effects of an explosion in the Pantheon of Rome
   <br>
@@ -49,14 +58,6 @@ nav_order: 1
   <br>
   <br></li>
 
-  <li>
-  “Can we tame earthquakes?” Data-centric engineering, The University of Sydney, 27 October 2021.
-  <br>
-
-  <iframe width="500" height="315" src="https://www.youtube.com/embed/Za5t8LVWl-Q">
-  </iframe><br>
-  <br>
-  </li>
 
   <li>
   The statue of Aphrodite of Milos subjected to blast actions

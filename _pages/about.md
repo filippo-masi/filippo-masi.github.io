@@ -29,4 +29,4 @@ I studied at the School of Mechanical Engineering of the University of Florence 
 My research concerns the development of data-driven and machine learning approaches for the constitutive modeling of materials, the structural and fast-dynamic behavior of masonry structures, geomechanics, and hydrodynamics.
 
 
-<center><img src=".../assets/img/masonry.png"  alt="centered image" width="50%" height="20%"></center>
+<center><img src="./../assets/img/masonry.png"  alt="centered image" width="50%" height="20%"></center>

@@ -12,12 +12,11 @@ nav_order: 1
 <ul>
 
 <li><div>The Blast Project, presenter: Ahmad Morsel.</div>
-<div> </div>
+<br>
 
 <iframe width="500" height="315" src="https://www.youtube.com/embed/ElW6LhsOWXg">
 </iframe>
 
-<div> </div>
 </li>
 
 

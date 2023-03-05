@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Postdoctoral Research Associate
 profile:
@@ -30,10 +30,6 @@ My research concerns the development of data-driven and machine learning approac
 
 
 
-<p><font size="+1"><b>Fast dynamic response of blocky structures</b></font></p>
+<p><font size="-1"><b>research axes</b></font></p>
 
 <center><img src="./../assets/img/masonry.png"  alt="centered image" width="30%" height="20%"></center>
-
-
-<p><font size="+1"><b>Thermodynamics-based Artificial Neural Networks</b></font></p>
-<center><img src="./../assets/img/tann.png"  alt="centered image" width="30%" height="20%"></center>

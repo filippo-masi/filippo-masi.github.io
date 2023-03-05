@@ -32,8 +32,12 @@ allowfullscreen="allowfullscreen"
   <li>
   “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA. <br>
 
-  <iframe width="300" height="315" src="https://www.youtube.com/embed/p6UJ03P6LUY">
-  </iframe>
+  <iframe src="https://www.youtube.com/embed/p6UJ03P6LUY"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen"></iframe>
   <br>
   <br></li>
 
@@ -41,7 +45,12 @@ allowfullscreen="allowfullscreen"
   <div>PhD Thesis Defense, Ecole Centrale de Nantes, 14 Dec 2020.</div>
   <br>
 
-  <iframe width="300" height="315" src="https://www.youtube.com/embed/9EzR6C18zWk">
+  <iframe src="https://www.youtube.com/embed/9EzR6C18zWk"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
   <br>
   <br>
@@ -51,7 +60,12 @@ allowfullscreen="allowfullscreen"
   <div>“Can we tame earthquakes?” @ Data-centric engineering, The University of Sydney, 27 October 2021.</div>
   <br>
 
-  <iframe width="300" height="315" src="https://www.youtube.com/embed/Za5t8LVWl-Q">
+  <iframe src="https://www.youtube.com/embed/Za5t8LVWl-Q"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
   </iframe><br>
   <br>
   </li>
@@ -61,7 +75,12 @@ allowfullscreen="allowfullscreen"
   <div>A study on the effects of an explosion in the Pantheon of Rome.</div>
   <br>
 
-  <iframe width="200" height="315" src="https://www.youtube.com/embed/mkXCM-PEsv8">
+  <iframe src="https://www.youtube.com/embed/mkXCM-PEsv8"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
   <br>
   <br></li>
@@ -71,7 +90,13 @@ allowfullscreen="allowfullscreen"
   <div>The statue of Aphrodite of Milos subjected to blast actions.</div>
   <br>
 
-  <iframe width="200" height="315" src="https://www.youtube.com/embed/IgHzwOfQfTI">
+  <iframe
+  src="https://www.youtube.com/embed/IgHzwOfQfTI"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
   </iframe><br>
   <br>
   </li>
@@ -81,6 +106,11 @@ allowfullscreen="allowfullscreen"
   <div>Blast wave and fluid-structure interactions.</div>
   <br>
 
-  <iframe width="200" height="315" src="https://www.youtube.com/embed/Bp5-QypZLio">
+  <iframe src="https://www.youtube.com/embed/Bp5-QypZLio"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
   </iframe></li>
 </ul>

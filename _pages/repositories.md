@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description:
+title: software development
+description: I contributed to the following software.
 nav: true
 nav_order: 3
 ---
 
 
-<p><font size="+1"><b>github repositories</b></font></p>
+<p><font size="+1"><b>software development</b></font></p>
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

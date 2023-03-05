@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: software development
+title: software
 description: I contributed to the following software.
 nav: true
 nav_order: 3

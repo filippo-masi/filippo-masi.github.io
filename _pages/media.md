@@ -25,6 +25,7 @@ nav_order: 1
   <li>
   <div>PhD Thesis Defense, Ecole Centrale de Nantes, 14 Dec 2020.</div>
 <br>
+
   <iframe width="500" height="315" src="https://www.youtube.com/embed/9EzR6C18zWk">
   </iframe>
   <br>
@@ -33,6 +34,7 @@ nav_order: 1
   <li>
   “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” at Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology - MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
 <br>
+
   <iframe width="500" height="315" src="https://www.youtube.com/embed/p6UJ03P6LUY">
   </iframe>
   <br>
@@ -41,6 +43,7 @@ nav_order: 1
   <li>
   A study on the effects of an explosion in the Pantheon of Rome
   <br>
+
   <iframe width="500" height="315" src="https://www.youtube.com/embed/mkXCM-PEsv8">
   </iframe>
   <br>
@@ -49,13 +52,16 @@ nav_order: 1
   <li>
   “Can we tame earthquakes?” Data-centric engineering, The University of Sydney, 27 October 2021.
   <br>
+
   <iframe width="500" height="315" src="https://www.youtube.com/embed/Za5t8LVWl-Q">
   </iframe><br>
+  <br>
   </li>
 
-  <li><br>
+  <li>
   The statue of Aphrodite of Milos subjected to blast actions
   <br>
+
   <iframe width="500" height="315" src="https://www.youtube.com/embed/IgHzwOfQfTI">
   </iframe><br>
   <br>
@@ -65,6 +71,7 @@ nav_order: 1
   <li>
   Blast wave and fluid-structure interactions
   <br>
+
   <iframe width="500" height="315" src="https://www.youtube.com/embed/Bp5-QypZLio">
   </iframe></li>
 </ul>

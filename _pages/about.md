@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
+<p><font size="+1"><b>About</b></font></p>
 
 Since late 2022, I joined the Sydney Centre in Geomechanics and Mining Materials (SciGEM) at The University of Sydney.
 
@@ -30,6 +31,6 @@ My research concerns the development of data-driven and machine learning approac
 
 
 
-<p><font size="-1"><b>research axes</b></font></p>
+<p><font size="+1"><b>Research axes</b></font></p>
 
-<center><img src="./../assets/img/masonry.png"  alt="centered image" width="30%" height="20%"></center>
+<center><img src="./../assets/img/masonry.png"  alt="centered image" width="50%" height="20%"></center>

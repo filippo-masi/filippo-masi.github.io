@@ -2,8 +2,7 @@
 layout: page
 permalink: /media/
 title: media
-description: List of refereed journal articles, conference proceedings, preprints, and communications.
-years: [2022,2021,2020,2019,2018]
+description: Research videos, lectures, and presentations.
 nav: true
 nav_order: 1
 ---
@@ -12,3 +11,8 @@ nav_order: 1
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/9EzR6C18zWk">
 </iframe>
+
+iframe[src*="https://www.youtube.com/embed/9EzR6C18zWk"], iframe[src*="https://www.youtube.com/embed/9EzR6C18zWk"] {
+   display: block;
+   margin: 0 auto;
+}

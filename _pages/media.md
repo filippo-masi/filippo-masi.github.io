@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /media/
-title: <font size="-2">media</font>
+title: <font size="-1">media</font>
 description: Research videos, lectures, and presentations.
 nav: true
 nav_order: 1

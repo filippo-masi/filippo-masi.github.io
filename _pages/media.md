@@ -9,9 +9,10 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 <div><font size="+0"><b>Blast LoAds on STructures (BLAST)</b></font></div>
-<br>
 
-<iframe width=750 src="https://www.youtube.com/embed/ElW6LhsOWXg"
+<iframe
+width=750 height=200
+src="https://www.youtube.com/embed/ElW6LhsOWXg"
 allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen"
         msallowfullscreen="msallowfullscreen"
@@ -29,7 +30,9 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 
 <div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
  <br>
-  <iframe width=750 src="https://www.youtube.com/embed/p6UJ03P6LUY"
+  <iframe
+  width=750 height=200
+  src="https://www.youtube.com/embed/p6UJ03P6LUY"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"
@@ -48,7 +51,9 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 loads”</b></font></div>
    <br>
 
-  <iframe width=750 src="https://www.youtube.com/embed/9EzR6C18zWk"
+  <iframe
+  width=750 height=200
+  src="https://www.youtube.com/embed/9EzR6C18zWk"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"

@@ -23,7 +23,7 @@ allowfullscreen="allowfullscreen"
 Kotronis, Guillaume Racineux, Emmanuel Marché), on the occasion of the 2023 edition of the Nuit Blanche des
 Chercheur.es event hosted by Nantes Université.
 
-BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</font></div>
+BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. <b>Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</b></font></div>
 
 <br>
 
@@ -40,12 +40,11 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 
   <div><font size="-1"> Presentation @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
 
-  Authors: Filippo Masi, Ioannis Stefanou.</font></div>
+  <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>
 
   <br>
 
 
-  <div>, Ecole Centrale de Nantes, 14 Dec 2020.</div>
   <div><font size="+0"><b>PhD Thesis viva “Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast
 loads”</b></font></div>
    <br>
@@ -58,7 +57,7 @@ loads”</b></font></div>
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
   <br>
-  <div><font size="-1"> Presentation @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
+  <div><font size="-1">  Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript.</a>
 
   Authors: Filippo Masi, Ioannis Stefanou.</font></div>
 <br>

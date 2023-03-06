@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /media/
-title: <font size="+2">media</font>
+title: media
 description: Research videos, lectures, and presentations.
 nav: true
 nav_order: 1
@@ -28,8 +28,9 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 <br>
 
 
-  “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA. <br>
-
+    <br>
+<div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
+ <br>
   <iframe src="https://www.youtube.com/embed/p6UJ03P6LUY"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -37,6 +38,12 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen"></iframe>
   <br>
+
+
+  <div><font size="-1"> Presentation @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
+
+  Authors: Filippo Masi, Ioannis Stefanou.</font></div>
+
   <br>
 
 

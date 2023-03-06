@@ -24,8 +24,9 @@ allowfullscreen="allowfullscreen"
         webkitallowfullscreen="webkitallowfullscreen">
 </iframe>
 <br>
-<div> BLAST focuses on the effect of blast actions on masonry and reinforced concrete structures, with emphasis to those of complex geometry. Based on advanced numerical tools and new experiments, BLAST aims not only at providing simplified high-end tools to the modern structural engineer, but also shedding light on the behavior of monumental structures such as Parthenon, who was exploded in 1687.
-BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole.
+<div><font size="-2">BLAST focuses on the effect of blast actions on masonry and reinforced concrete structures, with emphasis to those of complex geometry. Based on advanced numerical tools and new experiments, BLAST aims not only at providing simplified high-end tools to the modern structural engineer, but also shedding light on the behavior of monumental structures such as Parthenon, who was exploded in 1687.
+BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole.</font></div>
+
 
 Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.
 </div>

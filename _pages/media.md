@@ -26,8 +26,9 @@ Chercheur.es event hosted by Nantes Université.
 
 BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. <b>Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</b></font></div>
 
+<br>
+
 <div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
- <br>
   <iframe
   width=750 height=200
   src="https://www.youtube.com/embed/p6UJ03P6LUY"
@@ -58,9 +59,7 @@ loads”</b></font></div>
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
 
-  <div><font size="-1">  PhD Thesis viva, Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript.</a>
-
-  Authors: Filippo Masi, Ioannis Stefanou.</font></div>
+  <div><font size="-1">  PhD Thesis viva, Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript</a>.</font></div>
 <br>
 
   <div><font size="+0"><b>“Can we tame earthquakes?”</b></font></div>
@@ -75,6 +74,6 @@ loads”</b></font></div>
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
 
-  <div><font size="-1"> Presentation @ Data-centric engineering, The University of Sydney, 27 October 2021.
+  <div><font size="-1"> Presentation @ <a href="https://dsi.sydney.edu.au/data-centric-engineering/"> Data-centric engineering </a>, The University of Sydney, 27 October 2021.
 
   <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>

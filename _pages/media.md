@@ -61,11 +61,12 @@ loads”</b></font></div>
   Authors: Filippo Masi, Ioannis Stefanou.</font></div>
 <br>
 
-  <div>“Can we tame earthquakes?”</div>
   <div><font size="+0"><b>“Can we tame earthquakes?”</b></font></div>
 <br>
 
-  <iframe width=750  src="https://www.youtube.com/embed/Za5t8LVWl-Q"
+  <iframe
+  width=750 height=200
+  src="https://www.youtube.com/embed/Za5t8LVWl-Q"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"

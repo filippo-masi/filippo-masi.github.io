@@ -14,7 +14,7 @@ nav_order: 1
 <li><div><font size="+1">Blast LoAds on STructures (BLAST)</font></div>
 <br>
 
-<iframe src="https://www.youtube.com/embed/ElW6LhsOWXg"
+<iframe width=400 src="https://www.youtube.com/embed/ElW6LhsOWXg"
 allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen"
         msallowfullscreen="msallowfullscreen"

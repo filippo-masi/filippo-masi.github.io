@@ -35,7 +35,6 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           msallowfullscreen="msallowfullscreen"
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen"></iframe>
-  <br>
 
 
   <div><font size="-1"> Presentation @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
@@ -45,11 +44,11 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
   <br>
 
 
-  <div><font size="+0"><b>PhD Thesis viva “Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast
+  <div><font size="+0"><b>“Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast
 loads”</b></font></div>
    <br>
 
-  <iframe src="https://www.youtube.com/embed/9EzR6C18zWk"
+  <iframe width=750 src="https://www.youtube.com/embed/9EzR6C18zWk"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"
@@ -57,7 +56,7 @@ loads”</b></font></div>
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
   <br>
-  <div><font size="-1">  Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript.</a>
+  <div><font size="-1">  PhD Thesis viva, Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript.</a>
 
   Authors: Filippo Masi, Ioannis Stefanou.</font></div>
 <br>

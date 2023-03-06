@@ -11,7 +11,7 @@ nav_order: 1
 
 <ul>
 
-<li><div>The Blast Project: "Explosions, vibrations et patrimoine" workshop (with Ahmad Morsel, Ioannis Stefanou, Panagiotis
+<li><div>Blast LoAds on STructures (BLAST): "Explosions, vibrations et patrimoine" workshop (with Ahmad Morsel, Ioannis Stefanou, Panagiotis
 Kotronis, Guillaume Racineux, Emmanuel Marché), on the occasion of the 2023 edition of the Nuit Blanche des
 Chercheur.es event hosted by Nantes Université</div>
 <br>
@@ -24,6 +24,11 @@ allowfullscreen="allowfullscreen"
         webkitallowfullscreen="webkitallowfullscreen">
 </iframe>
 <br>
+<div> BLAST focuses on the effect of blast actions on masonry and reinforced concrete structures, with emphasis to those of complex geometry. Based on advanced numerical tools and new experiments, BLAST aims not only at providing simplified high-end tools to the modern structural engineer, but also shedding light on the behavior of monumental structures such as Parthenon, who was exploded in 1687.
+BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole.
+
+Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.
+</div>
 <br>
 
 </li>
@@ -71,7 +76,7 @@ allowfullscreen="allowfullscreen"
   </li>
 
 
-  <li>
+  <!-- <li>
   <div>A study on the effects of an explosion in the Pantheon of Rome.</div>
   <br>
 
@@ -112,5 +117,5 @@ allowfullscreen="allowfullscreen"
           msallowfullscreen="msallowfullscreen"
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen">
-  </iframe></li>
+  </iframe></li> -->
 </ul>

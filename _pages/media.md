@@ -27,11 +27,9 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 
 <br>
 
-
-    <br>
 <div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
  <br>
-  <iframe src="https://www.youtube.com/embed/p6UJ03P6LUY"
+  <iframe width=750 src="https://www.youtube.com/embed/p6UJ03P6LUY"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"

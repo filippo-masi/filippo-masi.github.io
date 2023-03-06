@@ -26,8 +26,6 @@ Chercheur.es event hosted by Nantes Université.
 
 BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. <b>Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</b></font></div>
 
-<br>
-
 <div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
  <br>
   <iframe
@@ -49,7 +47,6 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 
   <div><font size="+0"><b>“Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast
 loads”</b></font></div>
-   <br>
 
   <iframe
   width=750 height=200
@@ -67,7 +64,6 @@ loads”</b></font></div>
 <br>
 
   <div><font size="+0"><b>“Can we tame earthquakes?”</b></font></div>
-<br>
 
   <iframe
   width=750 height=200

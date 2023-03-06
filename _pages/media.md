@@ -8,10 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-
-<ul>
-
-<li><div><font size="+1">Blast LoAds on STructures (BLAST)</font></div>
+<div><font size="+0"><b>Blast LoAds on STructures (BLAST)</b></font></div>
 <br>
 
 <iframe width=700 src="https://www.youtube.com/embed/ElW6LhsOWXg"
@@ -30,10 +27,7 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 
 <br>
 
-</li>
 
-
-  <li>
   “Thermodynamics-based artificial neural networks (TANN) and constitutive modeling” @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA. <br>
 
   <iframe src="https://www.youtube.com/embed/p6UJ03P6LUY"
@@ -43,9 +37,9 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen"></iframe>
   <br>
-  <br></li>
+  <br>
 
-  <li>
+
   <div>PhD Thesis Defense, Ecole Centrale de Nantes, 14 Dec 2020.</div>
   <br>
 
@@ -58,9 +52,7 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
   </iframe>
   <br>
   <br>
-  </li>
 
-  <li>
   <div>“Can we tame earthquakes?” @ Data-centric engineering, The University of Sydney, 27 October 2021.</div>
   <br>
 
@@ -72,7 +64,7 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe><br>
   <br>
-  </li>
+
 
 
   <!-- <li>
@@ -117,4 +109,3 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe></li> -->
-</ul>

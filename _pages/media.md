@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /media/
-title: media
+title: <font size="-2">media</font>
 description: Research videos, lectures, and presentations.
 nav: true
 nav_order: 1
@@ -11,7 +11,7 @@ nav_order: 1
 <div><font size="+0"><b>Blast LoAds on STructures (BLAST)</b></font></div>
 <br>
 
-<iframe width=700 src="https://www.youtube.com/embed/ElW6LhsOWXg"
+<iframe width=750 src="https://www.youtube.com/embed/ElW6LhsOWXg"
 allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen"
         msallowfullscreen="msallowfullscreen"

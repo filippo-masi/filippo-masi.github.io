@@ -18,7 +18,7 @@ allowfullscreen="allowfullscreen"
         oallowfullscreen="oallowfullscreen"
         webkitallowfullscreen="webkitallowfullscreen">
 </iframe>
-<br>
+
 <div><font size="-1"> "Explosions, vibrations et patrimoine" workshop (with Ahmad Morsel, Ioannis Stefanou, Panagiotis
 Kotronis, Guillaume Racineux, Emmanuel Marché), on the occasion of the 2023 edition of the Nuit Blanche des
 Chercheur.es event hosted by Nantes Université.
@@ -55,20 +55,24 @@ loads”</b></font></div>
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
-  <br>
+
   <div><font size="-1">  PhD Thesis viva, Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript.</a>
 
   Authors: Filippo Masi, Ioannis Stefanou.</font></div>
 <br>
 
-  <div>“Can we tame earthquakes?” @ Data-centric engineering, The University of Sydney, 27 October 2021.</div>
-  <br>
+  <div>“Can we tame earthquakes?”</div>
+  <div><font size="+0"><b>“Can we tame earthquakes?”</b></font></div>
+<br>
 
-  <iframe src="https://www.youtube.com/embed/Za5t8LVWl-Q"
+  <iframe width=750  src="https://www.youtube.com/embed/Za5t8LVWl-Q"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
-  <br>
+
+  <div><font size="-1"> Presentation @ Data-centric engineering, The University of Sydney, 27 October 2021.
+
+  <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>

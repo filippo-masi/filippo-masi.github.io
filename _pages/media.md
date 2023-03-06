@@ -45,8 +45,10 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
   <br>
 
 
-  <div>PhD Thesis Defense, Ecole Centrale de Nantes, 14 Dec 2020.</div>
-  <br>
+  <div>, Ecole Centrale de Nantes, 14 Dec 2020.</div>
+  <div><font size="+0"><b>PhD Thesis viva “Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast
+loads”</b></font></div>
+   <br>
 
   <iframe src="https://www.youtube.com/embed/9EzR6C18zWk"
   allowfullscreen="allowfullscreen"
@@ -56,7 +58,10 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
   <br>
-  <br>
+  <div><font size="-1"> Presentation @ MMLDT-CSET Conference, September 26-29, 2021, San Diego, CA.
+
+  Authors: Filippo Masi, Ioannis Stefanou.</font></div>
+<br>
 
   <div>“Can we tame earthquakes?” @ Data-centric engineering, The University of Sydney, 27 October 2021.</div>
   <br>
@@ -67,50 +72,5 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
           msallowfullscreen="msallowfullscreen"
           oallowfullscreen="oallowfullscreen"
           webkitallowfullscreen="webkitallowfullscreen">
-  </iframe><br>
-  <br>
-
-
-
-  <!-- <li>
-  <div>A study on the effects of an explosion in the Pantheon of Rome.</div>
-  <br>
-
-  <iframe src="https://www.youtube.com/embed/mkXCM-PEsv8"
-  allowfullscreen="allowfullscreen"
-          mozallowfullscreen="mozallowfullscreen"
-          msallowfullscreen="msallowfullscreen"
-          oallowfullscreen="oallowfullscreen"
-          webkitallowfullscreen="webkitallowfullscreen">
   </iframe>
   <br>
-  <br></li>
-
-
-  <li>
-  <div>The statue of Aphrodite of Milos subjected to blast actions.</div>
-  <br>
-
-  <iframe
-  src="https://www.youtube.com/embed/IgHzwOfQfTI"
-  allowfullscreen="allowfullscreen"
-          mozallowfullscreen="mozallowfullscreen"
-          msallowfullscreen="msallowfullscreen"
-          oallowfullscreen="oallowfullscreen"
-          webkitallowfullscreen="webkitallowfullscreen">
-  </iframe><br>
-  <br>
-  </li>
-
-
-  <li>
-  <div>Blast wave and fluid-structure interactions.</div>
-  <br>
-
-  <iframe src="https://www.youtube.com/embed/Bp5-QypZLio"
-  allowfullscreen="allowfullscreen"
-          mozallowfullscreen="mozallowfullscreen"
-          msallowfullscreen="msallowfullscreen"
-          oallowfullscreen="oallowfullscreen"
-          webkitallowfullscreen="webkitallowfullscreen">
-  </iframe></li> -->

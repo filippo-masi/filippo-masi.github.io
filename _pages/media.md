@@ -11,9 +11,7 @@ nav_order: 1
 
 <ul>
 
-<li><div><font size="+1">Blast LoAds on STructures (BLAST): "Explosions, vibrations et patrimoine" workshop (with Ahmad Morsel, Ioannis Stefanou, Panagiotis
-Kotronis, Guillaume Racineux, Emmanuel Marché), on the occasion of the 2023 edition of the Nuit Blanche des
-Chercheur.es event hosted by Nantes Université</font></div>
+<li><div><font size="+1">Blast LoAds on STructures (BLAST)</font></div>
 <br>
 
 <iframe src="https://www.youtube.com/embed/ElW6LhsOWXg"
@@ -24,7 +22,11 @@ allowfullscreen="allowfullscreen"
         webkitallowfullscreen="webkitallowfullscreen">
 </iframe>
 <br>
-<div><font size="-1"> BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</font></div>
+<div><font size="-1"> "Explosions, vibrations et patrimoine" workshop (with Ahmad Morsel, Ioannis Stefanou, Panagiotis
+Kotronis, Guillaume Racineux, Emmanuel Marché), on the occasion of the 2023 edition of the Nuit Blanche des
+Chercheur.es event hosted by Nantes Université.
+
+BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</font></div>
 
 <br>
 

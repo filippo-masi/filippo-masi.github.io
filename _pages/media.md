@@ -10,7 +10,7 @@ nav_order: 1
 <div><font size="+0"><b>“Data- and thermodynamics-driven discovery of state variables and evolution equations”</b></font></div>
   <iframe
   width=750 height=200
-  src="https://www.youtube.com/watch?v=AwKLnI1oBKw&list=PL2943vWJNLlHQtCPudqGQBpvnlbf3Rpgd&index=13"
+  src="https://youtube.com/embed/AwKLnI1oBKw"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"

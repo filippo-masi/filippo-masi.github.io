@@ -7,6 +7,22 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+<div><font size="+0"><b>“Data- and thermodynamics-driven discovery of state variables and evolution equations”</b></font></div>
+  <iframe
+  width=750 height=200
+  src="https://www.youtube.com/watch?v=AwKLnI1oBKw&list=PL2943vWJNLlHQtCPudqGQBpvnlbf3Rpgd&index=13"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen"></iframe>
+
+
+  <div><font size="-1"> Presentation @ MAXENT'22 Conference, July 18-22, 2022, Paris, FR.
+
+  <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>
+
+  <br>
 
 <div><font size="+0"><b>Blast LoAds on STructures (BLAST)</b></font></div>
 

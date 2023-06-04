@@ -2,6 +2,7 @@ github_users:
   - filippo-masi
 
 github_repos:
+  - filippo-masi/hands-on-regression
   - filippo-masi/TANN-multiscale
   - filippo-masi/CSMA-Workshop-in-Deep-Learning
   - filippo-masi/Thermodynamics-Neural-Networks

@@ -17,6 +17,12 @@ nav_order: 1
 
 </div>
 
+<p><font size="+1"><b>Book chapters</b></font></p>
+
+  <p>F Masi (2023). Advanced Doctoral School: Regression methods, <i>25<sup>eme</sup> ALERT Geomaterials</i>. Aussois, France, September. <a href="{{ assets/pdf/FM_Regression.pdf | prepend: 'assets/pdf/FM_Regression.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
+
+Strain localization in geomaterials and regularization: rate-dependency, higher order continuum theories and multi-physics (download lecture notes and presentation, 30th ALERT Geomaterials 2019 Doctoral School)
+
 <p><font size="+1"><b>refereed conference proceedings</b></font></p>
 
   <p>F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September. <a href="{{ fullpaper-masi-filippo-2022-06-25032204 | prepend: 'assets/pdf/fullpaper-masi-filippo-2022-06-25032204.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>

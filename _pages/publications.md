@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /scientific production/
-title: publications
+permalink: /publications/
+title: Publications
 description: List of refereed journal articles, conference proceedings, preprints, and communications.
 years: [2022,2021,2020,2019,2018]
 nav: true
@@ -9,11 +9,10 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-<div><font size="+1"><b>refereed journal articles</b></font></div>
+<div><font size="+1"><b>Refereed journal articles</b></font></div>
 <div class="publications">
 
 {% bibliography --file papers %}
-
 
 </div>
 
@@ -24,7 +23,7 @@ nav_order: 1
 
 
 
-<p><font size="+1"><b>refereed conference proceedings</b></font></p>
+<p><font size="+1"><b>Refereed conference proceedings</b></font></p>
 
   <p>F Masi, I Stefanou (2022). Thermodynamics-based Artificial Neural Networks for multiscale computational mechanics, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September. <a href="{{ fullpaper-masi-filippo-2022-06-25032204 | prepend: 'assets/pdf/fullpaper-masi-filippo-2022-06-25032204.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
   <p>F Masi, I Stefanou, A Morsel, P Kotronis (2022). Reduced-scaled experiments of masonry structures under blast loads, <i>25<sup>eme</sup> Congrès Français de Mécanique</i>. Nantes, France, 29 August - 2 September. <a href="{{ fullpaper-masi-filippo-2022-05-02045730 | prepend: 'assets/pdf/fullpaper-masi-filippo-2022-05-02045730.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
@@ -34,7 +33,7 @@ nav_order: 1
   <p> F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Response of monumental buildings to internal explosions, <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://doi.org/10.7712/120119.6958.19630">10.7712/120119.6958.19630</a>.</p>
 
 
-<p><font size="+1"><b>conference communications</b></font></p>
+<p><font size="+1"><b>Conference communications</b></font></p>
 
 
 

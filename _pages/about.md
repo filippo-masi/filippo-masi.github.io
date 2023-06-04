@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hello world!
 
-<p><font size="+1"><b>About</b></font></p>
+
+<p><font size="+1"><b>Hello world!</b></font></p>
 
 I'm postdoctoral research associate at the [Sydney Centre in Gemechanics and Mining Materials (SciGEM)](https://www.sydney.edu.au/engineering/our-research/infrastructure-and-transport/sydney-centre-in-geomechanics-and-mining-materials.html#:~:text=The%20Sydney%20Centre%20in%20Gemechanics,of%20geomechanics%20and%20geotechnical%20engineering.) at [The University of Sydney](https://www.sydney.edu.au/).
 

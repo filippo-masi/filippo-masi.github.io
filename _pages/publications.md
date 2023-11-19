@@ -18,9 +18,9 @@ nav_order: 1
 
 <p><font size="+1"><b>Book chapters</b></font></p>
 
-  <p>F Masi (2023). Advanced Doctoral School: Introduction to regression methods, <i>ALERT Geomaterials - Doctoral School: Machine Learning (ML) in Geomechanics</i>. Aussois, France, September (<i>preprint</i>). <a href="{{ assets/pdf/ALERT_DS_Regression.pdf | prepend: 'assets/pdf/ALERT_DS_Regression.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
+  <p>F Masi (2023). Advanced Doctoral School: Introduction to regression methods, <i>ALERT Geomaterials - Doctoral School: Machine Learning (ML) in Geomechanics</i>. Aussois, France, September. <a href="{{ assets/pdf/ALERT_DS_Regression.pdf | prepend: 'assets/pdf/ALERT_DS_Regression.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
 
-  <p>F Masi, I Stefanou (2023). Advanced Doctoral School: Physics-informed and thermodynamics-based neural networks, <i>ALERT Geomaterials - Doctoral School: Machine Learning (ML) in Geomechanics</i>. Aussois, France, September (<i>preprint</i>). <a href="{{ assets/pdf/ALERT_DS_PINN_TANN.pdf | prepend: 'assets/pdf/ALERT_DS_PINN_TANN.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
+  <p>F Masi, I Stefanou (2023). Advanced Doctoral School: Physics-informed and thermodynamics-based neural networks, <i>ALERT Geomaterials - Doctoral School: Machine Learning (ML) in Geomechanics</i>. Aussois, France, September. <a href="{{ assets/pdf/ALERT_DS_PINN_TANN.pdf | prepend: 'assets/pdf/ALERT_DS_PINN_TANN.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></p>
 
 
 

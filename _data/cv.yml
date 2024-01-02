@@ -34,7 +34,7 @@
   type: map
   contents:
     - name: <font size="3">2022</font>
-      value: <font size="3"><b><a href="https://eng.ox.ac.uk/news/university-of-oxford-hosts-first-european-mechanics-of-materials-conference-since-2018/">Early Career Researcher Award</a></b> (best student presentation) by EuroMech (European Mechanics Society), on the occasion of the 18th European Mechanics of Materials Conference</font>
+      value: <font size="3"><b><a href="https://euromech.org/prizes/young">Early Career Researcher Award</a></b> (best student presentation) by EuroMech (European Mechanics Society), on the occasion of the 18th European Mechanics of Materials Conference</font>
     - name: <font size="3">2021</font>
       value: <font size="3"><b><a href="https://www.ec-nantes.fr/centrale-nantes/actualites/prix-de-these-centrale-innovation-2021">Award for the best PhD thesis</a></b> bringing technological and conceptual breakthroughs in the industry by Centrale Innovation (Ecoles Centrales Group)</font>
     - name: <font size="3">2021</font>
@@ -51,7 +51,7 @@
 - title: <font size="4"><b>Teaching</b></font>
   type: map
   contents:
-    - name: <font size="3">2020-.</font>
+    - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at ECN</font>
     - name: <font size="3">2021-2022</font>
       value: <font size="3">Continuum Mechanics. Lecturer, Bachelor level at ECN</font>

@@ -35,7 +35,7 @@ nav_order: 1
   <p> F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Response of monumental buildings to internal explosions, <i>Proceedings of the 7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June. doi: <a href="https://doi.org/10.7712/120119.6958.19630">10.7712/120119.6958.19630</a>.</p>
 
 
-<p><font size="+1"><b>Conference communications</b></font></p>
+<!-- <p><font size="+1"><b>Conference communications</b></font></p>
 
 
 
@@ -54,4 +54,4 @@ nav_order: 1
 <p>F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Michelangelos David or Aphrodite of Milos: who is more resistant to blast loads? <i>12<sup>th</sup> HSTAM International Congress on Mechanics</i>. Thessaloniki, Greece, 22-25 September. </p>
 <p>F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). A Discrete Element Method approach for the preservation of the architectural heritage against explosions, <i>12<sup>th</sup> HSTAM International Congress on Mechanics</i>. Thessaloniki, Greece, 22-25 September.</p>
 <p>F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2019). Masonry vaults under explosive loads, <i>7<sup>th</sup> International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering</i>. Crete, Greece, 24-26 June.</p>
-<p>F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2018). Simulations of blast effects in monumental structures, <i>13<sup>th</sup> World Congress on Computational Mechanics</i>. NY, USA, 22-27 July.</p>
+<p>F Masi, I Stefanou, P Vannucci, V Maffi-Berthier (2018). Simulations of blast effects in monumental structures, <i>13<sup>th</sup> World Congress on Computational Mechanics</i>. NY, USA, 22-27 July.</p> -->

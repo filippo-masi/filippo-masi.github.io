@@ -11,20 +11,20 @@
 - title: <font size="4"><b>Employment</b></font>
   type: map
   contents:
-    - name: <font size="3">2022Dec-.</font>
-      value: <font size="3"><p><b>Postdoctoral research associate</b></p> <p>Sydney Centre in Geomechanics and Mining Materials, School of Civil Engineering, The University of Sydney, Australia</p></font>
+    - name: <font size="3">2022Dec-   </font>
+      value: <font size="3"><b>Postdoctoral researcher</b> - The University of Sydney, Sydney, Australia</font>
     - name: <font size="3">2021Jan-2022Nov</font>
-      value: <font size="3"><p><b>Postdoctoral researcher</b></p>  <p>Ecole Centrale de Nantes, GeM Laboratory, France (<a href="https://coquake.eu/">ERC-StG CoQuake</a> project)</p></font>
+      value: <font size="3"><b>Postdoctoral researcher</b> - GeM, École Centrale de Nantes, Nantes, France</font>
+    - name: <font size="3">2020Nov-2020Dec</font>
+      value: <font size="3"><b>Research Engineer</b> - École Centrale de Nantes, Nantes, France</font>
     - name: <font size="3">2017Sep-2020Oct</font>
-      value: <font size="3"><p><b>Engineer</b> </p>  <p>Ingérop Conseil et Ingénierie, France (CIFRE)</p></font>
+      value: <font size="3"><b>Engineer</b> - CIFRE, Ingérop Conseil et Ingénierie, Rueil-Malmaison, France</font>
 
 - title: <font size="4"><b>Academic degrees</b></font>
   type: map
   contents:
     - name: <font size="3">2020</font>
-      value: <font size="3"><b>PhD, Mechanics</b> Ecole Centrale de Nantes, Ecole des Ponts ParisTech, in collaboration with University of Versailles and St-Quentin and Ingerop, France</font>
-    - name:
-      value: Title - <i>Fast-dynamic response and failure of masonry structures subjected to blast loads </i>. Supervisors - Prof I Stefanou, Prof P Vannucci</font>
+      value: <font size="3"><b>PhD, Mechanics</b> École Centrale de Nantes (École des Ponts ParisTech, University of Versailles and St-Quentin, and Ingérop), Nantes, France. Title - <i>Fast-dynamic response and failure of masonry structures subjected to blast loads </i>. Supervisors - Prof I Stefanou, Prof P Vannucci</font>
     - name: <font size="3">2017</font>
       value: <font size="3"><b>Master, Mechanical Engineering</b> University of Florence, Italy (solemn commendation of the committee − outstanding)</font>
     - name: <font size="3">2015</font>
@@ -34,23 +34,27 @@
   type: map
   contents:
     - name: <font size="3">2022</font>
-      value: <font size="3"><b><a href="https://euromech.org/prizes/young">Early Career Researcher Award</a></b> (best student presentation) by EuroMech (European Mechanics Society), on the occasion of the 18th European Mechanics of Materials Conference</font>
+      value: <font size="3"><b><a href="https://euromech.org/prizes/young">Early Career Researcher Award</a></b> by EUROMECH (European Mechanics Society) on the occasion of the 18th European Mechanics of Materials Conference, Oxford, UK</font>
     - name: <font size="3">2021</font>
-      value: <font size="3"><b><a href="https://www.ec-nantes.fr/centrale-nantes/actualites/prix-de-these-centrale-innovation-2021">Award for the best PhD thesis</a></b> bringing technological and conceptual breakthroughs in the industry by Centrale Innovation (Ecoles Centrales Group)</font>
+      value: <font size="3"><b><a href="https://www.ec-nantes.fr/centrale-nantes/actualites/prix-de-these-centrale-innovation-2021">Award for the best PhD thesis</a></b> bringing technological and conceptual breakthroughs in the industry by Centrale Innovation (Ecoles Centrales Group), France</font>
     - name: <font size="3">2021</font>
-      value: <font size="3"><b><a href="https://csma.asso.univ-lorraine.fr/2021/04/20/prix-de-these-csma-2020/">Award for the best PhD thesis</a></b> by CSMA (Computational Structural Mechanics Association)</font>
+      value: <font size="3"><b><a href="https://csma.asso.univ-lorraine.fr/2021/04/20/prix-de-these-csma-2020/">Award for the best PhD thesis</a></b> by CSMA (Computational Structural Mechanics Association), France</font>
+    - name: <font size="3">2017</font>
+      value: <font size="3"><b>Award for the best Master thesis</b> by the Order of Engineers of Florence, Italy</font>
     - name: <font size="3">2021</font>
       value: <font size="3">Finalist in the selection for <a href="https://www.eccomas.org/2021/06/10/2020-phd-awards/">ECCOMAS PhD award</a>, Robert J Melosh Medal by Duke University, I Vardoulakis prize by ALERT Geomaterials, and <a href="https://gttaum.wordpress.com/2022/09/04/prix-afm-paul-germain/">P Germain prize</a> by AFM</font>
 
 - title: <font size="4"><b>PhD Student supervision</b></font>
   type: map
   contents:
-    - name: <font size="3">2021-.</font>
-      value: <font size="3">A Morsel, Experimental testing of masonry structures under blast actions in the laboratory</font>
+    - name: <font size="3">2021- </font>
+      value: <font size="3">A Morsel, Experimental testing of masonry structures subjected to extreme loads</font>
 
 - title: <font size="4"><b>Teaching</b></font>
   type: map
   contents:
+    - name: <font size="3">2023</font>
+      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics</font>"
     - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at ECN</font>
     - name: <font size="3">2021-2022</font>

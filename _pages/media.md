@@ -7,9 +7,27 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+<div><font size="+0"><b>“Physics-informed and thermodynamics-based artificialneural networks for constitutive modeling
+”</b></font></div>
+  <iframe
+  width=750 height=450
+  src="https://www.youtube.com/embed/PYrwwoUi3mo?si=mLm-Iwegkbwm7YSs"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen"></iframe>
+
+
+  <div><font size="-1"> Course lecture @ ALERT Geomaterials Doctoral School 2023: Machine Learning in Geomechanics.
+
+  </div>
+
+  <br>
+
 <div><font size="+0"><b>“Data- and thermodynamics-driven discovery of state variables and evolution equations”</b></font></div>
   <iframe
-  width=750 height=200
+  width=750 height=450
   src="https://youtube.com/embed/AwKLnI1oBKw"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -27,7 +45,7 @@ nav_order: 1
 <div><font size="+0"><b>Blast LoAds on STructures (BLAST)</b></font></div>
 
 <iframe
-width=750 height=200
+width=750 height=450
 src="https://www.youtube.com/embed/ElW6LhsOWXg"
 allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen"
@@ -46,7 +64,7 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 
 <div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
   <iframe
-  width=750 height=200
+  width=750 height=450
   src="https://www.youtube.com/embed/p6UJ03P6LUY"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -66,7 +84,7 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
 loads”</b></font></div>
 
   <iframe
-  width=750 height=200
+  width=750 height=450
   src="https://www.youtube.com/embed/9EzR6C18zWk"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -81,7 +99,7 @@ loads”</b></font></div>
   <div><font size="+0"><b>“Can we tame earthquakes?”</b></font></div>
 
   <iframe
-  width=750 height=200
+  width=750 height=450
   src="https://www.youtube.com/embed/Za5t8LVWl-Q"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"

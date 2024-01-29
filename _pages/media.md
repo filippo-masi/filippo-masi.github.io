@@ -6,12 +6,17 @@ description: Research videos, lectures, and presentations.
 nav: true
 nav_order: 1
 ---
+
+<div><font size="+2"><b>LECTURES</b></font></div>
+
+<br>
+
 <!-- _pages/publications.md -->
 <div><font size="+0"><b>“Physics-informed and thermodynamics-based artificialneural networks for constitutive modeling
 ”</b></font></div>
   <iframe
-  width=750 height=450
-  src="https://www.youtube.com/embed/PYrwwoUi3mo?si=mLm-Iwegkbwm7YSs"
+  width=700 height=300
+  src="https://www.youtube.com/embed/PYrwwoUi3mo?si=B-VsBLt6A2Y1434E"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
           msallowfullscreen="msallowfullscreen"
@@ -19,15 +24,15 @@ nav_order: 1
           webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
 
-  <div><font size="-1"> Course lecture @ ALERT Geomaterials Doctoral School 2023: Machine Learning in Geomechanics.
+  <div><font size="-1"> Course lecture @ ALERT Geomaterials Doctoral School 2023: Machine Learning in Geomechanics.</div>
 
-  </div>
 
-  <br>
+<br>
+<br>
 
 <div><font size="+0"><b>“Data- and thermodynamics-driven discovery of state variables and evolution equations”</b></font></div>
   <iframe
-  width=750 height=450
+  width=700 height=300
   src="https://youtube.com/embed/AwKLnI1oBKw"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -41,11 +46,12 @@ nav_order: 1
   <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>
 
   <br>
+  <br>
 
 <div><font size="+0"><b>Blast LoAds on STructures (BLAST)</b></font></div>
 
 <iframe
-width=750 height=450
+width=700 height=300
 src="https://www.youtube.com/embed/ElW6LhsOWXg"
 allowfullscreen="allowfullscreen"
         mozallowfullscreen="mozallowfullscreen"
@@ -61,10 +67,11 @@ Chercheur.es event hosted by Nantes Université.
 BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays de la Loire and Nantes Metropole. <b>Group: Ioannis Stefanou (PI), Filippo Masi, Panagiotis Kotronis, Ahmad Morsel.</b></font></div>
 
 <br>
+<br>
 
 <div><font size="+0"><b>“Thermodynamics-based artificial neural networks (TANN) and constitutive modeling”</b></font></div>
   <iframe
-  width=750 height=450
+  width=700 height=300
   src="https://www.youtube.com/embed/p6UJ03P6LUY"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -78,13 +85,14 @@ BLAST is a Connect Talent project (www.connectalent.org, CEEV), funded by Pays d
   <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>
 
   <br>
+  <br>
 
 
   <div><font size="+0"><b>“Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast
 loads”</b></font></div>
 
   <iframe
-  width=750 height=450
+  width=700 height=300
   src="https://www.youtube.com/embed/9EzR6C18zWk"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -94,12 +102,14 @@ loads”</b></font></div>
   </iframe>
 
   <div><font size="-1">  PhD Thesis viva, Ecole Centrale de Nantes, 14 Dec 2020, <a href="https://theses.hal.science/tel-03217357">link to PhD manuscript</a>.</font></div>
-<br>
+
+  <br>
+  <br>
 
   <div><font size="+0"><b>“Can we tame earthquakes?”</b></font></div>
 
   <iframe
-  width=750 height=450
+  width=700 height=300
   src="https://www.youtube.com/embed/Za5t8LVWl-Q"
   allowfullscreen="allowfullscreen"
           mozallowfullscreen="mozallowfullscreen"
@@ -111,3 +121,49 @@ loads”</b></font></div>
   <div><font size="-1"> Presentation @ <a href="https://dsi.sydney.edu.au/data-centric-engineering/"> Data-centric engineering </a>, The University of Sydney, 27 October 2021.
 
   <b>Authors: Filippo Masi, Ioannis Stefanou.</b></font></div>
+
+
+
+    <br>
+    <br>
+
+  <div><font size="+2"><b>ANIMATIONS</b></font></div>
+
+  <br>
+
+
+  <iframe
+  width=700 height=300
+  src="https://www.youtube.com/embed/8WhIXuaMUpY?si=sfj1Jg89vZDeFcBP"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
+  </iframe>
+
+    <br>
+    <br>
+
+  <iframe
+  width=700 height=300
+  src="https://www.youtube.com/embed/pSq29Hum3AQ?si=-JSVGnWv8WDEGdHN"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
+  </iframe>
+
+    <br>
+<br>
+
+  <iframe
+  width=700 height=300
+  src="https://www.youtube.com/embed/IgHzwOfQfTI?si=B7rAara7jldHapcy"
+  allowfullscreen="allowfullscreen"
+          mozallowfullscreen="mozallowfullscreen"
+          msallowfullscreen="msallowfullscreen"
+          oallowfullscreen="oallowfullscreen"
+          webkitallowfullscreen="webkitallowfullscreen">
+  </iframe>

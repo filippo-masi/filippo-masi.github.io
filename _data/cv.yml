@@ -54,7 +54,7 @@
   type: map
   contents:
     - name: <font size="3">2023</font>
-      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics. Courses: ``Introduction to Regression Methods'' and ``Physics-Informed and Thermodynamics-Based Neural Networks'' (<a href="https://www.youtube.com/watch?v=PYrwwoUi3mo">lecture video</a>). Theory lectures coupled with hands-on examples and exercises: <a href="https://github.com/alert-geomaterials/2023-doctoral-school">github</a> and <a href="https://alertgeomaterials.eu/publications/">alertgeomaterials.eu</a>. </font>"
+      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics. Courses: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks (<a href="https://www.youtube.com/watch?v=PYrwwoUi3mo">lecture video</a>). Theory lectures coupled with hands-on examples and exercises: <a href="https://github.com/alert-geomaterials/2023-doctoral-school">github</a> and <a href="https://alertgeomaterials.eu/publications/">alertgeomaterials.eu</a>. </font>"
     - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at ECN</font>
     - name: <font size="3">2021-2022</font>

@@ -54,7 +54,7 @@
   type: map
   contents:
     - name: <font size="3">2023</font>
-      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics. Courses: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks. </font>"
+      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks (<b><a href="https://www.youtube.com/watch?v=PYrwwoUi3mo">lecture video</a></b>). </font>"
     - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at ECN</font>
     - name: <font size="3">2021-2022</font>

@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: Software
-description: In my research, I contributed to the following software, which was written for the purpose of validating and disseminating conducted research work and teaching.
+description:
 nav: true
 nav_order: 3
 ---
 
-For more information, look at my [github](https://github.com/filippo-masi) and <a href="https://filippo-masi.github.io/assets/pdf/FM_CV.pdf">curriculum vitae</a> for a detailed description of each software.
+In my research, I contributed to the following software, which was written for the purpose of validating and disseminating conducted research work and teaching. For more information, look at my [github](https://github.com/filippo-masi) and [curriculum vitae](https://filippo-masi.github.io/assets/pdf/FM_CV.pdf) for a detailed description of each software.
 
 <p><font size="+1"><b>software development</b></font></p>
 

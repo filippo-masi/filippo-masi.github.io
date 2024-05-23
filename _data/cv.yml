@@ -53,12 +53,12 @@
 - title: <font size="4"><b>Teaching</b></font>
   type: map
   contents:
-    - name: <font size="3">2023Sept</font>
-      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks. </font>"
+    - name: <font size="3">2023</font>
+      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics. Courses: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks.</font>"
     - name: <font size="3">2020-2023</font>
-      value: <font size="3">Experimental imaging analysis for Engineers. Master level at École Centrale de Nantes. Courses: Undergraduate Continuum Mechanics and Master's Experimental Imaging Analysis for Engineers</font>
+      value: <font size="3">Experimental imaging analysis for Engineers. Master level at École Centrale de Nantes.</font>
     - name: <font size="3">2021-2022</font>
-      value: <font size="3">Continuum Mechanics. Lecturer, Bachelor level at ECN</font>
+      value: <font size="3">Continuum Mechanics. Lecturer, Bachelor level at École Centrale de Nantes.</font>
     - name: <font size="3">2018-2019</font>
       value: <font size="3">Advanced computational mechanics. Lecturer, Master level at ENPC</font>
     - name: <font size="3">2018-2019</font>

@@ -14,6 +14,8 @@
     - name: <font size="3">2022Dec-   </font>
       value: <font size="3"><b>Postdoctoral researcher</b> - The University of Sydney, Sydney, Australia</font>
     - name: <font size="3">2021Jan-2022Nov</font>
+      value: <font size="3"><b>Contractual teacher</b> - GeM, École Centrale de Nantes, Nantes, France</font>
+    - name: <font size="3">2021Jan-2023Jun</font>
       value: <font size="3"><b>Postdoctoral researcher</b> - GeM, École Centrale de Nantes, Nantes, France</font>
     - name: <font size="3">2020Nov-2020Dec</font>
       value: <font size="3"><b>Research Engineer</b> - École Centrale de Nantes, Nantes, France</font>
@@ -53,13 +55,13 @@
 - title: <font size="4"><b>Teaching</b></font>
   type: map
   contents:
-    - name: <font size="3">2023</font>
+    - name: <font size="3">2023Sept</font>
       value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics. Courses: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks.</font>"
     - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at École Centrale de Nantes.</font>
     - name: <font size="3">2021-2022</font>
       value: <font size="3">Continuum Mechanics. Lecturer, Bachelor level at École Centrale de Nantes.</font>
     - name: <font size="3">2018-2019</font>
-      value: <font size="3">Advanced computational mechanics. Lecturer, Master level at ENPC</font>
+      value: <font size="3">Advanced computational mechanics. Lecturer, Master level at École des Ponts.</font>
     - name: <font size="3">2018-2019</font>
-      value: <font size="3">Computational mechanics. Lecturer, Bachelor level at ENPC</font>
+      value: <font size="3">Computational mechanics. Lecturer, Bachelor level at École des Ponts.</font>

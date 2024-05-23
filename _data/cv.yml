@@ -55,7 +55,7 @@
 - title: <font size="4"><b>Teaching</b></font>
   type: map
   contents:
-    - name: <font size="3">2023Sept-Oct</font>
+    - name: <font size="3">2023Sept</font>
       value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics. Courses: Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks.</font>"
     - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at École Centrale de Nantes.</font>

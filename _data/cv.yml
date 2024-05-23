@@ -48,13 +48,13 @@
   type: map
   contents:
     - name: <font size="3">2021-2024 </font>
-      value: "<font size="3">A Morsel, Experimental testing of masonry structures subjected to extreme loads. Advisory committee: I Stefanou (Director), P Kotronis, F Masi (co-supervisors).</font>"
+      value: <font size="3">A Morsel, Experimental testing of masonry structures subjected to extreme loads</font>
 
 - title: <font size="4"><b>Teaching</b></font>
   type: map
   contents:
     - name: <font size="3">2023</font>
-      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics.</font>"
+      value: "<font size='3'>ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics</font>"
     - name: <font size="3">2020-2023</font>
       value: <font size="3">Experimental imaging analysis for Engineers. Master level at ECN</font>
     - name: <font size="3">2021-2022</font>

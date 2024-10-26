@@ -8,8 +8,8 @@ profile:
   image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p><font size="-4"><a>Sydney Centre in Geomechanics and Mining Materials</font></p>
-    <p><font size="-4">School of Civil Engineering</font></p>
+    <p><font size="-4"><a>Inria, Jean Kuntzmann Laboratory (LJK)</font></p>
+    <p><font size="-4">University Grenoble Alpes</font></p>
     <p><font size="-4">The University of Sydney</font></p>
     <p><font size="-4">NSW 2006 Australia</font></p>
 

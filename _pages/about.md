@@ -15,7 +15,7 @@ profile:
 
 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -26,6 +26,10 @@ social: true  # includes social icons at the bottom of the page
 <p><font size="+1"><b>Hello world!</b></font></p>
 
 I am postdoctoral researcher at the [Sydney Centre in Gemechanics and Mining Materials (SciGEM)](https://www.sydney.edu.au/engineering/our-research/infrastructure-and-transport/sydney-centre-in-geomechanics-and-mining-materials.html#:~:text=The%20Sydney%20Centre%20in%20Gemechanics,of%20geomechanics%20and%20geotechnical%20engineering.) at [The University of Sydney](https://www.sydney.edu.au/).
+
+<p><b>News:</b> Soon, I will be joining as research scientist the [TRIPOP](http://team.inria.fr/tripop) project-team of the [Inria center of University Grenoble Alpes](https://www.inria.fr/en/centre-inria-universite-grenoble-alpes), in France. </p>
+
+
 
 I studied at the School of Mechanical Engineering of the University of Florence (Italy) and did my thesis at Ecole Centrale de Nantes (France), in collaboration with the University of Versailles and St-Quentin and the enterprise Ingerop.
 

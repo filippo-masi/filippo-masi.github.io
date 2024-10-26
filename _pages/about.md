@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Research Associate
+subtitle: Research Scientist / Postdoctoral Research Associate
 profile:
   align: left
   image: profile_pic.jpg

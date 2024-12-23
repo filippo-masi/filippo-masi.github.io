@@ -11,7 +11,9 @@
 - title: <font size="4"><b>Employment</b></font>
   type: map
   contents:
-    - name: <font size="3">2022Dec-   </font>
+    - name: <font size="3">2024Dec-   </font>
+      value: <font size="3"><b>Research scientist</b> - INRIA, TRIPOP project-team, France</font>
+    - name: <font size="3">2022Dec-2024Dec</font>
       value: <font size="3"><b>Postdoctoral researcher</b> - The University of Sydney, Sydney, Australia</font>
     - name: <font size="3">2021Jan-2022Nov</font>
       value: <font size="3"><b>Postdoctoral researcher</b> - GeM, École Centrale de Nantes, Nantes, France</font>

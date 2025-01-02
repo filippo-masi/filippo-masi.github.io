@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p><font size="+1"><b>Hello world!</b></font></p>
 
-I am research scientist at <a href="https://www.inria.fr/en/centre-inria-universite-grenoble-alpes">Inria center of University Grenoble Alpes</a> - <a href="http://team.inria.fr/tripop">TRIPOP</a> project-team, in France. </b></p>
+I am research scientist at the <a href="https://www.inria.fr/en/centre-inria-universite-grenoble-alpes">Inria center of University Grenoble Alpes</a> - <a href="http://team.inria.fr/tripop">TRIPOP</a> project-team, in France.
 
 I studied at the School of Mechanical Engineering of the University of Florence (Italy) and did my thesis at Ecole Centrale de Nantes (France), in collaboration with the University of Versailles and St-Quentin and the enterprise Ingerop.
 

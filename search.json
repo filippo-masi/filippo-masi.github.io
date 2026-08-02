@@ -105,13 +105,6 @@
     "text": "Supplementary and teaching material"
   },
   {
-    "objectID": "teaching.html#doctoral-level-teaching",
-    "href": "teaching.html#doctoral-level-teaching",
-    "title": "Teaching",
-    "section": "Doctoral-level teaching",
-    "text": "Doctoral-level teaching\n\nMachine Learning in Geomechanics\nIn 2023, I lectured at the ALERT Geomaterials Doctoral School on Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks.\n\n\n\nUniv. Grenoble Alpes\n\nIntroduction to﻿﻿﻿‌ numerical methods (2025) · Bachelor’s degree﻿​​﻿ in Mathematics (L3M “Mathématiques”​​​‌ and L3MAA “Mathématiques Avec﻿﻿﻿‌ Approfondissement”)**\n\n\n\n\nÉcole Centrale de Nantes\n\nExperimental imaging analysis for engineers (2020–2023) · Master level · Responsible\nContinuum mechanics (2021–2022) · Bachelor level · Lecturer\n\n\n\n\nÉcole des Ponts\n\nAdvanced computational mechanics (2018–2019) · Master level · Lecturer\nComputational mechanics (2018–2019) · Bachelor level · Lecturer"
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
@@ -119,11 +112,11 @@
     "text": "Filippo Masi\n\nResearch Scientist | Inria, TRIPOP project-team, Univ. Grenoble Alpes\n\n\nInria / Université Grenoble Alpes\nEmail\nGoogle Scholar\nORCID\nGitHub\nLinkedIn\n\n\n\n\n\n\n\n\n  \n    \n  \n  Blast LoAds on STructures (BLAST): Explosions, vibrations et patrimoine\n  Nuit Blanche des Chercheur.es\n  A. Morsel, I. Stefanou, F. Masi, P. Kotronis, G. Racineux, and E. Marché · Nantes, France · 2023\n  Public workshop presentation for the BLAST Connect Talent project\n\n\n  \n    \n  \n  Physics-informed and thermodynamics-based artificial neural networks for constitutive modeling\n  ALERT Geomaterials Doctoral School: Machine Learning in Geomechanics\n  F. Masi and I. Stefanou · Aussois, France · 2023\n  Course lecture\n\n\n  \n    \n  \n  Data- and thermodynamics-driven discovery of state variables and evolution equations\n  MAXENT'22 Conference\n  F. Masi and I. Stefanou · Paris, France · 18–22 July 2022\n  Conference presentation\n\n\n  \n    \n  \n  Can we tame earthquakes?\n  Data-Centric Engineering webinar, The University of Sydney\n  I. Stefanou and F. Masi · Sydney, Australia / online · 27 October 2021\n  Webinar\n\n\n  \n    \n  \n  Thermodynamics-based artificial neural networks (TANN) and constitutive modeling\n  MMLDT-CSET Conference\n  F. Masi and I. Stefanou · San Diego, California, USA · 26–29 September 2021\n  Conference presentation\n\n\n  \n    \n  \n  Fast-dynamic response and failure of masonry structures of non-standard geometry subjected to blast loads\n  PhD thesis defence, École Centrale de Nantes\n  F. Masi · Nantes, France · 14 December 2020\n  PhD thesis defence\n  Manuscript"
   },
   {
-    "objectID": "RECOVERY-NOTES.html",
-    "href": "RECOVERY-NOTES.html",
-    "title": "Recovery notes",
-    "section": "",
-    "text": "Recovery notes\nThis source project was reconstructed from website.zip.\nRecovered directly from the Quarto cache/build:\n\nall eight .qmd pages from .quarto/idx/*.qmd.json;\ngenerated publications, conference, and talk fragments;\nthe complete BibTeX files;\nall published images, logos, and the CV;\nthe rendered project metadata used to reconstruct _quarto.yml;\nthe latest compiled user SCSS rules and variables.\n\nReconstructed from the rendered HTML and the previous clean source:\n\n_profile.qmd;\ntools/build_bibliography.py and includes/profile-script.html.\n\nThe output folder and Quarto cache are intentionally excluded. Run:\npython3 tools/build_bibliography.py\nquarto preview\nAfter confirming the result, initialize Git and commit immediately."
+    "objectID": "teaching.html#doctoral-level-teaching",
+    "href": "teaching.html#doctoral-level-teaching",
+    "title": "Teaching",
+    "section": "Doctoral-level teaching",
+    "text": "Doctoral-level teaching\n\nMachine Learning in Geomechanics\nIn 2023, I lectured at the ALERT Geomaterials Doctoral School on Introduction to Regression Methods and Physics-Informed and Thermodynamics-Based Neural Networks.\n\n\n\nUniv. Grenoble Alpes\n\nIntroduction to﻿﻿﻿‌ numerical methods (2025) · Bachelor’s degree﻿​​﻿ in Mathematics (L3M “Mathématiques”​​​‌ and L3MAA “Mathématiques Avec﻿﻿﻿‌ Approfondissement”)**\n\n\n\n\nÉcole Centrale de Nantes\n\nExperimental imaging analysis for engineers (2020–2023) · Master level · Responsible\nContinuum mechanics (2021–2022) · Bachelor level · Lecturer\n\n\n\n\nÉcole des Ponts\n\nAdvanced computational mechanics (2018–2019) · Master level · Lecturer\nComputational mechanics (2018–2019) · Bachelor level · Lecturer"
   },
   {
     "objectID": "publications.html#refereed-journal-articles",

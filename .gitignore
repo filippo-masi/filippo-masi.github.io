@@ -13,5 +13,4 @@ vendor
 /.quarto/
 __pycache__/
 *.pyc
-
 **/*.quarto_ipynb

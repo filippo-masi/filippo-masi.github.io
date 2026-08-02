@@ -1,6 +1,5 @@
 # Filippo Masi — Quarto Academic Pages layout
 
-This project reproduces the Academic Pages/Jeremy Bleyer-style layout in Quarto: the same top navigation, persistent author profile, proportions, colour palette, and no right-side “On this page” panel.
 
 ## Preview locally
 

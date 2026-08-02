@@ -1,0 +1,21 @@
+---
+title: "Contact"
+title-block-style: none
+toc: false
+---
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _profile.qmd >}}
+:::
+
+::: {.academic-main}
+
+**Inria Centre at Université Grenoble Alpes**  
+TRIPOP project-team  
+Jean Kuntzmann Laboratory (LJK)  
+Grenoble, France
+
+**Email:** [filippo.masi@inria.fr](mailto:filippo.masi@inria.fr)
+
+:::
+::::

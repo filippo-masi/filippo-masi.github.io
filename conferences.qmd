@@ -1,0 +1,17 @@
+---
+title: "Conferences"
+title-block-style: none
+toc: false
+---
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _profile.qmd >}}
+:::
+
+::: {.academic-main}
+
+Conference proceedings, reviewed abstracts, posters, and communications.
+
+{{< include generated/conferences.md >}}
+:::
+::::

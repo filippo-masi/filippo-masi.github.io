@@ -1,0 +1,26 @@
+::: {.author-profile}
+
+![](images/profile_pic.jpg){.author-avatar fig-alt="Filippo Masi"}
+
+### Filippo Masi {.author-name}
+
+::: {.author-bio}
+######## Research Scientist | Inria, TRIPOP project-team, Univ. Grenoble Alpes
+:::
+
+::: {.author-links #author-links}
+
+[Inria / Université Grenoble Alpes](https://www.inria.fr/en/inria-center-universite-grenoble-alpes){.author-link .author-affiliation}
+
+[Email](mailto:filippo.masi@inria.fr){.author-link .author-email}
+
+[Google Scholar](https://scholar.google.com/citations?user=AerwcEUAAAAJ){.author-link .author-scholar}
+
+[ORCID](https://orcid.org/0000-0001-8899-6700){.author-link .author-orcid}
+
+[GitHub](https://github.com/filippo-masi){.author-link .author-github}
+
+[LinkedIn](https://www.linkedin.com/in/filippo-masi-5a1448160/){.author-link .author-linkedin}
+:::
+
+:::

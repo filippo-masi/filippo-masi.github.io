@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: python3 tools/build_bibliography.py
+  resources:
+    - files/**
+    - images/**
+    - bibliography/**
+
+lang: en
+
+website:
+  title: "Filippo Masi"
+  description: "Research scientist in computational mechanics, scientific machine learning and complex materials"
+  site-url: "https://filippo-masi.github.io"
+  repo-url: "https://github.com/filippo-masi/filippo-masi.github.io"
+  page-navigation: false
+  search: false
+
+  navbar:
+    title: "Filippo Masi"
+    background: "#ffffff"
+    foreground: "#494e52"
+    pinned: false
+    collapse-below: lg
+    left:
+      - text: "CV"
+        href: files/FM_CV.pdf
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Conferences"
+        href: conferences.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  page-footer:
+    center: "© 2026 Filippo Masi. Powered by Quarto."
+    border: false
+    background: "#f2f3f3"
+
+format:
+  html:
+    theme:
+      - default
+      - assets/css/academic-pages.scss
+    toc: false
+    page-layout: full
+    title-block-style: none
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    code-overflow: wrap
+    include-after-body: includes/profile-script.html
+
+execute:
+  freeze: auto

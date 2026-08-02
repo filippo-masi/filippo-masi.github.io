@@ -1,0 +1,22 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".author-profile").forEach(function (profile) {
+    var links = profile.querySelector(".author-links");
+    if (!links || profile.querySelector(".author-follow")) return;
+
+    var button = document.createElement("button");
+    button.className = "author-follow";
+    button.type = "button";
+    button.textContent = "Follow";
+    button.setAttribute("aria-expanded", "false");
+    button.setAttribute("aria-controls", links.id || "author-links");
+    links.parentNode.insertBefore(button, links);
+
+    button.addEventListener("click", function () {
+      var open = button.getAttribute("aria-expanded") === "true";
+      button.setAttribute("aria-expanded", String(!open));
+      links.classList.toggle("is-open", !open);
+    });
+  });
+});
+</script>

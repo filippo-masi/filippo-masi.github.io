@@ -9,3 +9,9 @@ _site
 Gemfile.lock
 vendor
 
+/_site/
+/.quarto/
+__pycache__/
+*.pyc
+
+**/*.quarto_ipynb

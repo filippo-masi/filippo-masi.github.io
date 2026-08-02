@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+title-block-style: none
+toc: false
+---
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _profile.qmd >}}
+:::
+
+::: {.academic-main}
+
+## Doctoral-level teaching
+
+### Machine Learning in Geomechanics
+
+In 2023, I lectured at the ALERT Geomaterials Doctoral School on **Introduction to Regression Methods** and **Physics-Informed and Thermodynamics-Based Neural Networks**.
+
+---
+
+### Univ. Grenoble Alpes
+
+- *Introduction to﻿﻿﻿‌ numerical methods* (2025) · Bachelor's degree﻿​​﻿ in Mathematics (L3M “Mathématiques”​​​‌ and L3MAA “Mathématiques Avec﻿﻿﻿‌ Approfondissement”)**
+
+---
+
+### École Centrale de Nantes
+
+- *Experimental imaging analysis for engineers* (2020–2023) · Master level · Responsible
+- *Continuum mechanics* (2021–2022) · Bachelor level · Lecturer
+
+---
+
+### École des Ponts
+
+- *Advanced computational mechanics* (2018–2019) · Master level · Lecturer
+- *Computational mechanics* (2018–2019) · Bachelor level · Lecturer
+
+
+:::
+::::

@@ -1,0 +1,17 @@
+---
+title: "Publications"
+title-block-style: none
+toc: false
+---
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _profile.qmd >}}
+:::
+
+::: {.academic-main}
+
+You can also find publications on [Google Scholar](https://scholar.google.com/citations?user=AerwcEUAAAAJ). 
+
+{{< include generated/publications.md >}}
+:::
+::::

@@ -1,0 +1,15 @@
+---
+title: "Talks"
+title-block-style: none
+toc: false
+---
+:::: {.academic-shell}
+::: {.academic-sidebar}
+{{< include _profile.qmd >}}
+:::
+
+::: {.academic-main}
+
+{{< include generated/talks.md >}}
+:::
+::::

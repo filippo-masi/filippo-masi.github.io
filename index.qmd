@@ -17,7 +17,6 @@ I am a research scientist at the [Inria Centre at Université Grenoble Alpes](ht
 
 ::: {.institution-logos}
 [![Inria](images/logos/inria.svg){.institution-logo .inria-logo}](https://www.inria.fr/en/centre-inria-universite-grenoble-alpes) 
-[![MIAI Cluster](images/logos/miai.svg){.institution-logo .miai-logo}](https://miai-cluster.univ-grenoble-alpes.fr/english/)
 [![Université Grenoble Alpes](images/logos/uga.svg){.institution-logo .uga-logo}](https://www.univ-grenoble-alpes.fr/)
 :::
 
@@ -34,9 +33,9 @@ Keywords: *solid mechanics, computational mechanics, scientific machine learning
 I have recently been awarded a chair from the Multidisciplinary Institute in Artificial Intelligence, with Vincent Acary, for the project **AIM: Artificial Intelligence and Mechanics**. You can find more details on the [AIM webpage](https://project.inria.fr/aimechanics/).
 
 <p align="center">
-  <img src="images/logos/AIM.png"
-       alt="Overview of constitutive-model discovery with hard-constrained non-equilibrium thermodynamics."
-       width="30%">
+  <img src="images/logos/miai.svg"
+       alt="https://miai-cluster.univ-grenoble-alpes.fr/english/"
+       width="20%">
 </p>
 You can find further details in [Research](research.qmd).
 

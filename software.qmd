@@ -12,19 +12,19 @@ toc: false
 
 ## Main projects
 
-### [NICE — Neural Integration for Constitutive Equations](https://github.com/filippo-masi/NICE)
+#### [NICE — Neural Integration for Constitutive Equations](https://github.com/filippo-masi/NICE)
 
 A deep-learning framework for the automatic discovery of constitutive equations from small, sparse and incomplete material-state observations.
 
-### [Thermodynamics-based Artificial Neural Networks](https://github.com/filippo-masi/Thermodynamics-Neural-Networks)
+#### [Thermodynamics-based Artificial Neural Networks](https://github.com/filippo-masi/Thermodynamics-Neural-Networks)
 
 Reference implementation of thermodynamics-based neural architectures for constitutive modelling of inelastic materials.
 
-### [TANN-multiscale](https://github.com/filippo-masi/TANN-multiscale)
+#### [TANN-multiscale](https://github.com/filippo-masi/TANN-multiscale)
 
 Micromechanical simulations, training workflows and finite-element examples for multiscale modelling of inelastic materials with TANN.
 
-### [Constitutive transport learning](https://github.com/filippo-masi/constitutive-transport-learning)
+#### [Constitutive transport learning](https://github.com/filippo-masi/constitutive-transport-learning)
 
 Hard-constrained thermodynamic learning of inelastic constitutive models from stress–strain data through generalised transport operators.
 

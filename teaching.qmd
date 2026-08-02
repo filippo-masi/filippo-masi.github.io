@@ -10,31 +10,40 @@ toc: false
 
 ::: {.academic-main}
 
-## Doctoral-level teaching
+## Doctoral
 
-### Machine Learning in Geomechanics
+### ALERT Geomaterials Olek Zienkiewicz school on Constitutive Modelling of Geomaterials | 2025
+- *Introduction to Machine Learning* and *Constitutive modelling meets Machine Learning*.
+- Material: [program](https://soilmodels.com/alert-oz-school-2025/) and [codes](https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML).
 
-In 2023, I lectured at the ALERT Geomaterials Doctoral School on **Introduction to Regression Methods** and **Physics-Informed and Thermodynamics-Based Neural Networks**.
+
+### ALERT Geomaterials doctoral school on Machine Learning in Geomechanics | 2023
+- *Introduction to Regression Methods* and *Physics-Informed and Thermodynamics-Based Neural Networks*.
+- Material: [book](http://www.alertgeomaterials.eu/data/school/2023/2023_ALERT_school.pdf) and [hands-on exercises](https://github.com/alert-geomaterials/2023-doctoral-school).
+
+### Computational Structural Mechanics Association Junior workshop | 2022
+- *Deep learning, simulation temps réel et réduction de modèles*.
+- Material: [website](https://csma.asso.univ-lorraine.fr/csma-juniors/) and [codes](https://github.com/filippo-masi/CSMA-Workshop-in-Deep-Learning).
 
 ---
+
+## Master and bachelor
 
 ### Univ. Grenoble Alpes
 
-- *Introduction to﻿﻿﻿‌ numerical methods* (2025) · Bachelor's degree﻿​​﻿ in Mathematics (L3M “Mathématiques”​​​‌ and L3MAA “Mathématiques Avec﻿﻿﻿‌ Approfondissement”)**
-
----
+- *Machine learning for Physics* (2026-.) · Master (MSIAM/ENSIMAG) · Responsible/Lecturer
+- *Machine learning for Mechanics* (2026-.) · Master (MGCER) · Responsible/Lecturer
+- *Introduction to﻿﻿﻿‌ numerical methods* (2025) · Bachelor (L3M/L3MAA) · Lecturer
 
 ### École Centrale de Nantes
 
-- *Experimental imaging analysis for engineers* (2020–2023) · Master level · Responsible
-- *Continuum mechanics* (2021–2022) · Bachelor level · Lecturer
-
----
+- *Experimental imaging analysis for engineers* (2020–2023) · Master · Responsible
+- *Continuum mechanics* (2021–2022) · Bachelor · Lecturer
 
 ### École des Ponts
 
-- *Advanced computational mechanics* (2018–2019) · Master level · Lecturer
-- *Computational mechanics* (2018–2019) · Bachelor level · Lecturer
+- *Advanced computational mechanics* (2018–2019) · Master · Lecturer
+- *Computational mechanics* (2018–2019) · Bachelor · Lecturer
 
 
 :::

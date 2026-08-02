@@ -1,6 +1,9 @@
 # Filippo Masi — Quarto Academic Pages layout
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b981059 (update teaching)
 ## Preview locally
 
 ```bash
@@ -42,14 +45,3 @@ python3 tools/build_bibliography.py
 - `index.qmd`: homepage.
 - `research.qmd`, `publications.qmd`, `conferences.qmd`, `talks.qmd`, `teaching.qmd`, `software.qmd`, `contact.qmd`: main pages.
 - `files/FM_CV.pdf`: current PDF from the previous website.
-
-## Items to update
-
-1. Replace `filippo.masi@sydney.edu.au` in `_profile.qmd` and `contact.qmd` when appropriate.
-2. Replace the PDF CV when the current version is ready.
-3. Verify the final details of entries still marked “in press” in the original website.
-4. Add recent publications and conference contributions to the BibTeX files.
-
-## YouTube embed implementation
-
-The generated Talks page wraps its card markup in a Pandoc raw HTML block. This prevents the indented `<iframe>` elements from being interpreted as Markdown code blocks. Edit `bibliography/talks.bib`; the pre-render script regenerates `generated/talks.md` automatically.

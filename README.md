@@ -1,9 +1,5 @@
 # Filippo Masi — Quarto Academic Pages layout
 
-<<<<<<< HEAD
-
-=======
->>>>>>> b981059 (update teaching)
 ## Preview locally
 
 ```bash

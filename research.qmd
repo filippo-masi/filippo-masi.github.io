@@ -3,32 +3,38 @@ title: "Research"
 title-block-style: none
 toc: false
 ---
+
 :::: {.academic-shell}
+
 ::: {.academic-sidebar}
 {{< include _profile.qmd >}}
 :::
 
 ::: {.academic-main}
 
+# Research
 
 My research lies at the intersection of computational mechanics, constitutive
-modelling and scientific machine learning. I develop physics-constrained
-data-driven methods for complex materials, together with analytical, numerical
-and experimental approaches for structures subjected to extreme dynamic
-loading.
+modelling, and scientific machine learning. I develop physics-constrained
+data-driven methods for complex materials, together with analytical, numerical,
+and experimental approaches for understanding structural response under
+extreme dynamic loading.
 
 ## Thermodynamics-constrained constitutive modelling
 
 I develop machine-learning methods for discovering constitutive equations
 directly from mechanical observations while enforcing the governing physical
-constraints by construction. This work includes Thermodynamics-based
-Artificial Neural Networks, autonomous discovery of internal variables, Neural
-Integration for Constitutive Equations, and the learning of inelastic
-constitutive models from stress–strain data under hard thermodynamic
-constraints. The objective is to obtain constitutive models that remain
-thermodynamically admissible, interpretable and reliable under loading paths
-not represented during training.
+principles by construction. The objective is to obtain models that are
+thermodynamically admissible, interpretable, and reliable under loading paths
+that were not represented during training.
 
+This research includes Thermodynamics-based Artificial Neural Networks,
+the autonomous discovery of internal variables and evolution equations,
+Neural Integration for Constitutive Equations, and the identification of
+inelastic constitutive models from stress–strain data under hard thermodynamic
+constraints. These approaches combine learned representations of free energy,
+material state, and constitutive evolution while enforcing objectivity,
+stability, and non-negative dissipation.
 
 <figure class="research-figure">
   <img
@@ -36,72 +42,81 @@ not represented during training.
     alt="Framework for learning inelastic constitutive models from stress-strain data under hard thermodynamic constraints"
   />
   <figcaption>
-    Learning inelastic constitutive behaviour from stress–strain data under
-    hard thermodynamic constraints.
-    <p>
-    *Collaborators: F. Vincent, V. Acary, I. Einav, I. Stefanou.*
-    </p>
+    Learning inelastic constitutive behaviour from stress–strain observations
+    under hard thermodynamic constraints.
+    <span class="research-collaborators">
+      Collaborators: F. Vincent, V. Acary, I. Einav, and I. Stefanou.
+    </span>
   </figcaption>
 </figure>
 
 ## Data-driven multiscale mechanics
 
-I study heterogeneous materials whose macroscopic response emerges from
+I study heterogeneous materials whose macroscopic behaviour emerges from
 nonlinear and irreversible mechanisms evolving at finer spatial scales. My
-research combines micromechanical simulations, computational homogenisation
-and thermodynamics-aware machine learning to construct efficient reduced-order
-constitutive descriptions. Learned internal variables provide a compact
-representation of the microscopic state, while constitutive surrogates retain
-the essential effects of path dependence, dissipation and material
-heterogeneity.
+research combines micromechanical simulations, computational homogenisation,
+reduced-order modelling, and thermodynamics-aware machine learning to connect
+microscopic mechanisms with effective constitutive behaviour.
 
-
+Learned internal variables provide compact representations of high-dimensional
+microstructural states, while constitutive surrogates retain the essential
+effects of path dependence, dissipation, and material heterogeneity. These
+models are designed for integration into large-scale finite-element
+simulations while preserving access to relevant microscopic information.
 
 <figure class="research-figure">
   <img
     src="images/research/multiscale.svg"
-    alt="Data-driven multiscale mechanics simulation"
+    alt="Data-driven multiscale simulation of heterogeneous inelastic materials"
   />
   <figcaption>
     Multiscale material modelling using learned internal variables and
     thermodynamically consistent constitutive descriptions.
-    <p>
-    *Collaborators: H. Leroy, E. Fabbrini, V. Acary, I. Stefanou.*
-    </p>
+    <span class="research-collaborators">
+      Collaborators: H. Leroy, E. Fabbrini, V. Acary, and I. Stefanou.
+    </span>
   </figcaption>
 </figure>
 
-## Masonry under extreme loading, reduced-scale experiments and scaling laws
-Part of my research focuses on the investigation of the response and failure of masonry,
- monumental structures and free-standing artefacts subjected to explosions and other extreme dynamic
-actions. These systems combine complex geometry, unilateral contact, friction,
-cracking, rocking, block separation and fluid–structure interaction. My work
-uses analytical models, discrete-element methods, nonlinear finite-element
-simulations and coupled solid–fluid calculations to identify damage and
-collapse mechanisms and support mechanically informed risk assessment.
-Within the PhD thesis of A. Morsel, in collaboration with I. Stefanou and P. Kotronis, we developed
-scaling approaches and reduced-scale experiments for reproducing the
-response of masonry and blocky structures under blast-type loading. The work
-examines how rocking, sliding, uplift, impact and collapse mechanisms can be
-represented consistently at laboratory scale. Controlled shock waves,
-high-speed imaging, pressure measurements and three-dimensional motion tracking
-provide detailed observations for validating computational models and linking
-laboratory measurements with full-scale structural behaviour.
+## Masonry structures under extreme loading: scaling laws and reduced-scale experiments
 
+A significant part of my research concerns the response and failure of masonry
+structures, monumental buildings, and free-standing artefacts subjected to
+explosions and other extreme dynamic actions. Their behaviour involves complex
+geometry, unilateral contact, friction, cracking, rocking, block separation,
+impact, and fluid–structure interaction.
+
+I use analytical models, discrete-element methods, nonlinear finite-element
+simulations, and coupled solid–fluid calculations to identify the mechanisms
+governing damage and collapse. The broader objective is to develop
+mechanically informed methods for assessing structural vulnerability and
+supporting the preservation of cultural heritage.
+
+As part of the doctoral research of A. Morsel, conducted in collaboration with
+I. Stefanou and P. Kotronis, we developed scaling laws and reduced-scale
+experiments for reproducing the blast response of masonry and blocky
+structures. The work investigates how rocking, sliding, uplift, impact, and
+collapse mechanisms can be represented consistently at laboratory scale.
+Controlled shock waves, pressure measurements, high-speed imaging, and
+three-dimensional motion tracking provide detailed observations for validating
+computational models and relating laboratory measurements to full-scale
+structural behaviour.
 
 <figure class="research-figure">
   <img
     src="images/research/masonry.png"
-    alt="Dynamic response of a masonry vault subjected to extreme loading"
+    alt="Reduced-scale experimental platform for blast testing of masonry and blocky structures"
   />
   <figcaption>
-    Reduced-scaled experimental platform for blast testing of structures, and testing the dynamic response of
-    a multi-drum column, and of a reduced-scale model of the Parthenon (Greece).
-    <p>
-    *Collaborators: A. Morsel, G. Racineux,  P. Kotronis, I. Stefanou.*
-    </p>
+    Reduced-scale experimental platform for blast testing of structures,
+    including tests on a multi-drum column and a scaled model inspired by the
+    columns of the Parthenon in Athens, Greece.
+    <span class="research-collaborators">
+      Collaborators: A. Morsel, G. Racineux, P. Kotronis, and I. Stefanou.
+    </span>
   </figcaption>
 </figure>
 
 :::
+
 ::::

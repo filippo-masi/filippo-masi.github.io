@@ -1,11 +1,11 @@
 ::: {.author-profile}
 
-![](images/profile_pic.jpg){.author-avatar fig-alt="Filippo Masi"}
+![](images/profile.jpeg){.author-avatar fig-alt="Filippo Masi"}
 
 ### Filippo Masi {.author-name}
 
 ::: {.author-bio}
-######## Research Scientist | Inria, TRIPOP project-team, Univ. Grenoble Alpes
+Research scientist | Inria, Univ. Grenoble Alpes
 :::
 
 ::: {.author-links #author-links}

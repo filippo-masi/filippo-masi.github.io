@@ -13,10 +13,10 @@ toc: false
 
 ## About
 
-I am a research scientist at the [Inria Centre at Université Grenoble Alpes](https://www.inria.fr/en/centre-inria-universite-grenoble-alpes), in the [TRIPOP](https://team.inria.fr/tripop/) team.
+I am a research scientist at the [Inria Centre at Université Grenoble Alpes](https://www.inria.fr/en/inria-center-universite-grenoble-alpes), in the [TRIPOP](https://team.inria.fr/tripop/) team.
 
 ::: {.institution-logos}
-[![Inria](images/logos/inria.svg){.institution-logo .inria-logo}](https://www.inria.fr/en/centre-inria-universite-grenoble-alpes) 
+[![Inria](images/logos/inria.svg){.institution-logo .inria-logo}](https://www.inria.fr/en/inria-center-universite-grenoble-alpes) 
 [![Université Grenoble Alpes](images/logos/uga.svg){.institution-logo .uga-logo}](https://www.univ-grenoble-alpes.fr/)
 :::
 
@@ -25,7 +25,7 @@ Before that, I was a Research Associate at the University of Sydney (Australia),
 ## Research
 
 My work focuses on the mechanics of complex materials—materials possessing multiple inherent spatial scales. Combining theory, numerical simulations and experiments, I aim to understand their mechanical behaviour and the scale-transition process, and to derive macroscopic constitutive descriptions for large-scale systems and structures.
-I develop discrete- and finite-element simulations, machine-learning methods, constitutive models and thermodynamics-based approaches. My activities concern dissipative and nonlinear phenomena such as plasticity, fracture, friction and impacts, with particular interest in fast dynamics.
+I develop discrete- and finite-element simulations, machine-learning methods, constitutive models and thermodynamics-based approaches. My activities concern dissipative and nonlinear phenomena such as plasticity, friction and impacts, with particular interest in fast dynamics.
 
 Keywords: *solid mechanics, computational mechanics, scientific machine learning, constitutive modelling, multiscale materials, plasticity, impact and fast dynamics*
 

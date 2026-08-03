@@ -14,6 +14,7 @@ website:
   description: "Research scientist in computational mechanics, scientific machine learning and complex materials"
   site-url: "https://filippo-masi.github.io"
   repo-url: "https://github.com/filippo-masi/filippo-masi.github.io"
+  favicon: images/site_icon-1.png
   page-navigation: false
   search: false
 

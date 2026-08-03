@@ -14,3 +14,4 @@ vendor
 __pycache__/
 *.pyc
 **/*.quarto_ipynb
+README.md

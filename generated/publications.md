@@ -2,7 +2,7 @@
 
 ## Refereed journal articles
 
-1. **F. Masi**. “Learning inelastic constitutive models from stress–strain data under hard thermodynamic constraints.” *Computer Methods in Applied Mechanics and Engineering*, **1**(1), 1 (2026). [DOI](https://doi.org/https://doi.org/10.1016/j.cma.2026.119260) · [Code](https://github.com/filippo-masi/constitutive-transport-learning)
+1. **F. Masi**. “[Learning inelastic constitutive models from stress–strain data under hard thermodynamic constraints](https://www.sciencedirect.com/science/article/pii/S0045782526005335).” *Computer Methods in Applied Mechanics and Engineering*, **461**, 119260 (2026). [DOI](https://doi.org/https://doi.org/10.1016/j.cma.2026.119260) · [Code](https://github.com/filippo-masi/constitutive-transport-learning)
 1. **F. Masi** and I. Einav. “Hydrodynamics of fault gouges from constitutive modelling to the physics of friction.” *Journal of Geophysical Research: Solid Earth*, **130**(7), e2024JB030822 (2025). [DOI](https://doi.org/https://doi.org/10.1029/2024JB030822) · [Code](https://github.com/filippo-masi/Terraquake)
 1. A. Morsel, **F. Masi**, P. Kotronis, and I. Stefanou. “[Measurement, self-similarity, and TNT equivalence of blasts from exploding wires](https://link.springer.com/article/10.1007/s00193-024-01209-x).” *Shock Waves*, **35**(1), 17–35 (2025). [DOI](https://doi.org/10.1007/s00193-024-01209-x)
 1. A. Morsel, **F. Masi**, E. Marché, G. Racineux, P. Kotronis, and I. Stefanou. “[miniBLAST: a novel experimental setup for laboratory testing of structures under blast loads](https://link.springer.com/article/10.1007/s40799-024-00771-4).” *Experimental Techniques*, **49**(4), 655–675 (2025). [DOI](https://doi.org/10.1007/s40799-024-00771-4)

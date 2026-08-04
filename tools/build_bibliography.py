@@ -209,7 +209,7 @@ def person_name(raw: str) -> str:
             initials.append(token[0].upper() + ".")
     formatted = (" ".join(initials) + " " + last).strip()
     if last.casefold() == "masi" and first.casefold().startswith("filippo"):
-        return f"*{formatted}*"
+        return f"{formatted}"
     return formatted
 
 

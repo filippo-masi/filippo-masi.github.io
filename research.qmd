@@ -28,9 +28,9 @@ principles by construction. The objective is to obtain models that are
 thermodynamically admissible, interpretable, and reliable under loading paths
 that were not represented during training.
 
-This research includes Thermodynamics-based Artificial Neural Networks,
+This research includes Thermodynamics-based Artificial Neural Networks (TANN),
 the autonomous discovery of internal variables and evolution equations,
-Neural Integration for Constitutive Equations, and the identification of
+Neural Integration for Constitutive Equations (NICE), and the identification of
 inelastic constitutive models from stress–strain data under hard thermodynamic
 constraints. These approaches combine learned representations of free energy,
 material state, and constitutive evolution while enforcing objectivity,
@@ -44,8 +44,6 @@ stability, and non-negative dissipation.
   <figcaption>
     Learning inelastic constitutive behaviour from stress–strain observations
     under hard thermodynamic constraints.
-    <span class="research-collaborators">
-      Collaborators: F. Vincent, V. Acary, I. Einav, and I. Stefanou.
     </span>
   </figcaption>
 </figure>
@@ -72,9 +70,6 @@ simulations while preserving access to relevant microscopic information.
   <figcaption>
     Multiscale material modelling using learned internal variables and
     thermodynamically consistent constitutive descriptions.
-    <span class="research-collaborators">
-      Collaborators: H. Leroy, E. Fabbrini, V. Acary, and I. Stefanou.
-    </span>
   </figcaption>
 </figure>
 
@@ -106,9 +101,6 @@ structural behaviour.
     Reduced-scale experimental platform for blast testing of structures,
     including tests on a multi-drum column and a scaled model inspired by the
     columns of the Parthenon in Athens, Greece.
-    <span class="research-collaborators">
-      Collaborators: A. Morsel, G. Racineux, P. Kotronis, and I. Stefanou.
-    </span>
   </figcaption>
 </figure>
 

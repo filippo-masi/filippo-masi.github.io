@@ -18,8 +18,6 @@ Research scientist | Inria, Univ. Grenoble Alpes
 
 [ORCID](https://orcid.org/0000-0001-8899-6700){.author-link .author-orcid}
 
-[GitHub](https://github.com/filippo-masi){.author-link .author-github}
-
 [LinkedIn](https://www.linkedin.com/in/filippo-masi-5a1448160/){.author-link .author-linkedin}
 :::
 

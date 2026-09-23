@@ -31,7 +31,7 @@ toc: false
 
 ### Univ. Grenoble Alpes (UGA)
 
-- *Machine learning for Physics* (2026-.) · Master (MSIAM/ENSIMAG) · Course coordinator and lecturer
+- *Machine learning for Physics* (2026-.) · Master (MSIAM/ENSIMAG) · Course co-coordinator and lecturer [website](https://github.com/aimechanics/machine-learning-for-physics)
 - *Machine learning for Mechanics* (2026-.) · Master (MGCER) · Course coordinator and lecturer
 - *Introduction to﻿﻿﻿‌ numerical methods* (2025) · Bachelor (L3M/L3MAA) · Lecturer
 

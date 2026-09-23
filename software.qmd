@@ -3,6 +3,7 @@ title: "Software"
 title-block-style: none
 toc: false
 ---
+
 :::: {.academic-shell}
 ::: {.academic-sidebar}
 {{< include _profile.qmd >}}
@@ -10,25 +11,69 @@ toc: false
 
 ::: {.academic-main}
 
-## Main projects
+## Research software
 
-#### [NICE — Neural Integration for Constitutive Equations](https://github.com/filippo-masi/NICE)
+Open-source implementations and research code accompanying my work in
+data-driven constitutive modelling, computational mechanics and geomechanics ([GitHub profile](https://github.com/filippo-masi))
 
-A deep-learning framework for the automatic discovery of constitutive equations from small, sparse and incomplete material-state observations.
+###### [Constitutive transport learning](https://github.com/filippo-masi/constitutive-transport-learning)
 
-#### [Thermodynamics-based Artificial Neural Networks](https://github.com/filippo-masi/Thermodynamics-Neural-Networks)
+Learning inelastic constitutive models directly from stress–strain data under
+hard thermodynamic constraints. The framework combines neural free-energy
+potentials with state-dependent generalised transport operators, enforcing
+thermodynamic consistency by construction.
 
-Reference implementation of thermodynamics-based neural architectures for constitutive modelling of inelastic materials.
+###### [NICE — Neural Integration for Constitutive Equations](https://github.com/filippo-masi/NICE)
 
-#### [TANN-multiscale](https://github.com/filippo-masi/TANN-multiscale)
+A deep-learning framework for the automatic discovery of constitutive equations
+from small, sparse and incomplete material-state observations. NICE formulates
+constitutive learning as an initial-value problem and uses neural differential
+equations to identify the evolution of material state variables.
 
-Micromechanical simulations, training workflows and finite-element examples for multiscale modelling of inelastic materials with TANN.
+###### [Thermodynamics-based Artificial Neural Networks (TANN)](https://github.com/filippo-masi/Thermodynamics-Neural-Networks)
 
-#### [Constitutive transport learning](https://github.com/filippo-masi/constitutive-transport-learning)
+Reference implementation of thermodynamics-based neural architectures for
+constitutive modelling of inelastic materials. Thermodynamic relations are
+embedded directly in the neural architecture through automatic differentiation.
 
-Hard-constrained thermodynamic learning of inelastic constitutive models from stress–strain data through generalised transport operators.
+###### [TANN-multiscale](https://github.com/filippo-masi/TANN-multiscale)
 
-## Supplementary and teaching material
+Micromechanical simulations, training workflows and finite-element examples for
+multiscale modelling of inelastic materials with TANN. The repository includes
+tools for generating microscale data and examples coupling learned constitutive
+models with finite-element analyses.
+
+###### [Terraquake](https://github.com/filippo-masi/Terraquake)
+
+Research code for the constitutive and hydrodynamic modelling of fault gouges
+and frictional dynamics, connecting material-scale behaviour with
+earthquake-like instabilities.
+
+
+## Teaching and hands-on material
+
+###### [Machine Learning for Physics (UGA)](https://github.com/aimechanics/machine-learning-for-physics)
+
+Course material for *Machine Learning for Physics* in the M2 MSIAM programme at Université Grenoble Alpes, co-taught with Vincent Acary, Michael Arbel and
+Henri Leroy. The repository contains lecture slides and hands-on material on physics-informed learning, operator learning, structured models and
+differentiable solvers.
+
+###### [ALERT Geomaterials Doctoral School 2023 — Machine Learning in Geomechanics](https://github.com/alert-geomaterials/2023-doctoral-school)
+Shared course repository for the 2023 ALERT Geomaterials Doctoral School on *Machine Learning in Geomechanics*. It collects lecture material and hands-on
+notebooks from the teaching team.
+
+
+###### [ALERT Olek Zienkiewicz School — Constitutive modelling meets Machine Learning](https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML)
+
+Hands-on notebooks and material for learning constitutive equations from
+experimental geomaterial data, prepared for the ALERT Olek Zienkiewicz
+Doctoral School.
+
+###### [CSMA Workshop — Deep Learning and Constitutive Modelling](https://github.com/filippo-masi/CSMA-Workshop-in-Deep-Learning)
+
+Course material, notebooks and practical exercises on physics-informed
+data-driven constitutive modelling and Thermodynamics-based Artificial Neural
+Networks.
 
 :::
 ::::
